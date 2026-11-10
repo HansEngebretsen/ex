@@ -143,6 +143,7 @@ h1,h2,h3{font-family:var(--font-display);font-weight:var(--display-weight);lette
 .seg button[aria-pressed="true"]{background:var(--sel);color:var(--sel-ink);box-shadow:var(--btn-hi)}
 .seg.ico button{width:30px;padding:0;display:grid;place-items:center}
 .ico svg,.gear svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.gear-wrap{position:relative;flex:none;display:flex}
 .gear{width:32px;height:32px;display:grid;place-items:center;border:var(--rule-hair) solid var(--line2);border-radius:var(--radius-pill);background:var(--paper);color:var(--ink2)}
 .gear:hover{border-color:var(--mute)}
 .gear[aria-expanded="true"]{background:var(--sel);color:var(--sel-ink);border-color:var(--sel)}
@@ -153,7 +154,7 @@ h1,h2,h3{font-family:var(--font-display);font-weight:var(--display-weight);lette
 
 /* settings sheet — anchored dropdown under the gear; smoked glass in dark,
    a white card on bone in light. Capped by the viewport so it never slides off. */
-.sheet{position:absolute;top:calc(100% + 6px);right:8px;left:auto;z-index:40;width:min(400px,calc(100% - 16px));max-width:calc(100% - 16px);max-height:min(70vh,560px);overflow-y:auto;overscroll-behavior:contain;padding:16px;background:var(--glass);-webkit-backdrop-filter:var(--glass-filter);backdrop-filter:var(--glass-filter);border:0;border-radius:var(--radius-card);box-shadow:var(--glass-hi),var(--shadow-card);display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px 12px;align-items:center;font-size:13px;color:var(--ink2)}
+.sheet{position:absolute;top:calc(100% + 8px);right:0;left:auto;z-index:40;width:min(400px,calc(100vw - 16px));max-width:calc(100vw - 16px);max-height:min(70vh,560px);overflow-y:auto;overscroll-behavior:contain;padding:16px;background:var(--glass);-webkit-backdrop-filter:var(--glass-filter);backdrop-filter:var(--glass-filter);border:0;border-radius:var(--radius-card);box-shadow:var(--glass-hi),var(--shadow-card);display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px 12px;align-items:center;font-size:13px;color:var(--ink2)}
 .sheet[hidden]{display:none}
 .sheet-h{grid-column:1/-1;margin:0;font-size:15px;color:var(--ink)}
 .sheet .seg{justify-self:start}
@@ -424,7 +425,7 @@ body.cards .list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:
   .modelbar{padding:6px 14px;justify-content:flex-start}
   .modelbar .seg{flex:0 0 auto}
   .modelbar .seg button{flex:none}
-  .sheet{right:max(14px,calc((100vw - var(--container))/2 + 14px))}
+  .sheet{right:0}
   body:not(.cards) .sorts{display:none}
   .list,.hdr{
     --cols:60px 52px 84px 72px 88px 104px 60px minmax(180px,1.3fr) minmax(0,1fr) 108px;
@@ -593,7 +594,20 @@ body.cost-mode .condseg,body.cost-mode .viewseg{display:none}
       <button data-v="table" aria-pressed="true" aria-label="Table"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
       <button data-v="cards" aria-pressed="false" aria-label="Cards"><svg viewBox="0 0 24 24"><path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z"/></svg></button>
     </div>
+    <div class="gear-wrap">
     <button class="gear" id="gear" aria-expanded="false" aria-controls="sheet" aria-label="Settings"><svg viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg></button>
+  <div class="sheet" id="sheet" hidden>
+    <h2 class="sheet-h">Settings</h2>
+    <span>Theme</span>
+    <div class="seg" role="group" aria-label="Theme"><button data-th="auto" aria-pressed="true">Auto</button><button data-th="light" aria-pressed="false">Light</button><button data-th="dark" aria-pressed="false">Dark</button></div>
+    <section class="my-stars" aria-labelledby="myStarsTitle">
+      <h2 id="myStarsTitle">My Stars</h2>
+      <button class="copy-stars" id="copyStars" disabled>Copy VINs</button>
+      <ul class="star-vins" id="starVins"><li class="empty-star">No starred vehicles yet.</li></ul>
+      <span class="copy-status" id="copyStatus" role="status" aria-live="polite"></span>
+    </section>
+  </div>
+    </div>
   </div>
   <div class="modelbar">
     <span class="label">Vehicle</span>
@@ -624,17 +638,6 @@ body.cost-mode .condseg,body.cost-mode .viewseg{display:none}
       </div>
     </div>
     <button class="star-chip" id="starFilter" aria-pressed="false"><span class="star-glyph" aria-hidden="true">★</span>Starred <span id="starCount"></span></button>
-  </div>
-  <div class="sheet" id="sheet" hidden>
-    <h2 class="sheet-h">Settings</h2>
-    <span>Theme</span>
-    <div class="seg" role="group" aria-label="Theme"><button data-th="auto" aria-pressed="true">Auto</button><button data-th="light" aria-pressed="false">Light</button><button data-th="dark" aria-pressed="false">Dark</button></div>
-    <section class="my-stars" aria-labelledby="myStarsTitle">
-      <h2 id="myStarsTitle">My Stars</h2>
-      <button class="copy-stars" id="copyStars" disabled>Copy VINs</button>
-      <ul class="star-vins" id="starVins"><li class="empty-star">No starred vehicles yet.</li></ul>
-      <span class="copy-status" id="copyStatus" role="status" aria-live="polite"></span>
-    </section>
   </div>
   <div class="sorts" id="sorts" role="group" aria-label="Sort"></div>
   <div class="hdr" id="hdr"></div>
