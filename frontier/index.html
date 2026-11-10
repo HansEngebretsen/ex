@@ -110,9 +110,6 @@ h1,h2,h3{font-family:var(--font-display);font-weight:var(--display-weight);lette
 .modelbar .seg button{flex:1}
 .model-count{margin-left:3px;font-variant-numeric:tabular-nums;color:var(--mute)}
 .localcap{padding:0 8px 8px;font-size:12px;color:var(--mute)}
-.pagehead{padding:12px 8px 0}
-.pagehead h1{margin:0;font-size:19px;line-height:1.25}
-.pagehead p{margin:3px 0 0;font-size:13px;line-height:1.5;color:var(--mute)}
 .searchbar{display:flex;align-items:center;gap:6px;padding:0 8px 8px}
 .searchbar input{flex:1;min-width:0;font:inherit;font-size:13px;color:var(--ink);background:var(--paper);border:var(--rule-hair) solid var(--line2);border-radius:var(--radius-pill);padding:6px 12px}
 .searchbar input::placeholder{color:var(--mute)}
@@ -420,9 +417,8 @@ body.cards .list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:
 
 /* ---------- desktop: spreadsheet ---------- */
 @media (min-width:860px){
-  .bar,.modelbar,.colorbar,.starbar,.sorts,.localcap,.searchbar,.pagehead{max-width:var(--container);margin-left:auto;margin-right:auto}
+  .bar,.modelbar,.colorbar,.starbar,.sorts,.localcap,.searchbar{max-width:var(--container);margin-left:auto;margin-right:auto}
   .localcap{padding:0 14px 8px}
-  .pagehead{padding:14px 14px 0}
   .searchbar{padding:0 14px 8px}
   .bar{padding:12px 14px 0}
   .modelbar{padding:6px 14px;justify-content:flex-start}
@@ -523,7 +519,7 @@ body.cards .list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:
 @media (max-width:859px){.lb .nav{display:none}}
 
 /* ---------- cost of ownership tab ---------- */
-body.cost-mode .sorts,body.cost-mode .hdr,body.cost-mode .starbar,body.cost-mode .foot,body.cost-mode .modelbar,body.cost-mode .localcap,body.cost-mode .colorbar,body.cost-mode .searchbar,body.cost-mode .pagehead{display:none}
+body.cost-mode .sorts,body.cost-mode .hdr,body.cost-mode .starbar,body.cost-mode .foot,body.cost-mode .modelbar,body.cost-mode .localcap,body.cost-mode .colorbar,body.cost-mode .searchbar{display:none}
 body.cost-mode .condseg,body.cost-mode .viewseg{display:none}
 #list[hidden]{display:none}
 .cost-panel{max-width:var(--container);margin:0 auto;padding:10px 8px 28px}
@@ -581,11 +577,6 @@ body.cost-mode .condseg,body.cost-mode .viewseg{display:none}
 </style>
 </head>
 <body class="first-paint">
-
-<header class="pagehead">
-  <h1>Every vehicle that meets the caps</h1>
-  <p>Prices lead with estimated Seattle out-the-door totals, checked against the sellers’ own listings. Tap a vehicle for photos, notes and its listing.</p>
-</header>
 
 <div class="top">
   <div class="bar">
