@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-10",
+ "generated": "2026-11-11",
  "snapshot": "2026-11-09",
  "coverageReturnedAt": "2026-11-10T06:26:00-08:00",
  "coverage": [
   {
-   "service": "Jess Ford of Grand Coulee · removed — dealer has no Frontier (VIN + inventory check)",
+   "service": "Jess Ford of Grand Coulee \u00b7 removed \u2014 dealer has no Frontier (VIN + inventory check)",
    "status": "checked",
    "sweepDate": "2026-10-29"
   },
@@ -14,37 +14,37 @@
    "checkedAt": "2026-11-10T05:57:00-08:00"
   },
   {
-   "service": "Facebook Marketplace · 0 qualifiers",
+   "service": "Facebook Marketplace \u00b7 0 qualifiers",
    "status": "checked",
    "checkedAt": "2026-11-10T05:59:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Tue Nov 10",
+   "service": "Dealer sites \u00b7 browser spot-checks Tue Nov 10",
    "status": "partial",
    "checkedAt": "2026-11-10T06:26:00-08:00"
   },
   {
-   "service": "Autotrader · BLOCKED Tue Nov 10 — page unavailable (attempted Nov 10)",
+   "service": "Autotrader \u00b7 BLOCKED Tue Nov 10 \u2014 page unavailable (attempted Nov 10)",
    "status": "blocked",
    "sweepDate": "2026-11-10"
   },
   {
-   "service": "Nissan USA · searched Tue Nov 10 — 0 new qualifiers",
+   "service": "Nissan USA \u00b7 searched Tue Nov 10 \u2014 0 new qualifiers",
    "status": "checked",
    "checkedAt": "2026-11-10T06:26:00-08:00"
   },
   {
-   "service": "CarMax · standalone pass skipped — off cadence (Tuesday)",
+   "service": "CarMax \u00b7 standalone pass skipped \u2014 off cadence (Tuesday)",
    "status": "skipped",
    "sweepDate": "2026-11-10"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Tue Nov 10 6:26 AM PT",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Tue Nov 10 6:26 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-10T06:26:00-08:00"
   },
   {
-   "service": "Tacoma spot-check · Northridge check Tue Nov 10 6:26 AM PT — index-only, dealer site blocked",
+   "service": "Tacoma spot-check \u00b7 Northridge check Tue Nov 10 6:26 AM PT \u2014 index-only, dealer site blocked",
    "status": "partial",
    "checkedAt": "2026-11-10T06:26:00-08:00"
   },
@@ -59,112 +59,112 @@
    "checkedAt": "2026-11-09T05:59:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Mon Nov 9",
+   "service": "Dealer sites \u00b7 browser spot-checks Mon Nov 9",
    "status": "partial",
    "checkedAt": "2026-11-09T06:59:00-08:00"
   },
   {
-   "service": "Autotrader · BLOCKED Mon Nov 9 — site unavailable (attempted Nov 9)",
+   "service": "Autotrader \u00b7 BLOCKED Mon Nov 9 \u2014 site unavailable (attempted Nov 9)",
    "status": "blocked",
    "sweepDate": "2026-11-09"
   },
   {
-   "service": "Nissan USA · skipped — off cadence (Monday)",
+   "service": "Nissan USA \u00b7 skipped \u2014 off cadence (Monday)",
    "status": "skipped",
    "sweepDate": "2026-11-09"
   },
   {
-   "service": "CarMax · standalone pass skipped — off cadence (Monday)",
+   "service": "CarMax \u00b7 standalone pass skipped \u2014 off cadence (Monday)",
    "status": "skipped",
    "sweepDate": "2026-11-09"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Mon Nov 9 6:59 AM PT",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Mon Nov 9 6:59 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-09T06:59:00-08:00"
   },
   {
-   "service": "Tacoma spot-check · Mon Nov 9 6:59 AM PT",
+   "service": "Tacoma spot-check \u00b7 Mon Nov 9 6:59 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-09T06:59:00-08:00"
   },
   {
-   "service": "Tier-1 sweep · 0 changes",
+   "service": "Tier-1 sweep \u00b7 0 changes",
    "status": "checked",
    "checkedAt": "2026-11-08T05:57:00-08:00"
   },
   {
-   "service": "Facebook Marketplace · 0 qualifiers",
+   "service": "Facebook Marketplace \u00b7 0 qualifiers",
    "status": "checked",
    "checkedAt": "2026-11-08T05:59:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Sun Nov 8 — 15 rows checked: 7 verified unchanged; West Hills + Moritz + Medford blocked-held; Sheehy not found day 12; Portland + Corvallis NOT FOUND, first absence (held)",
+   "service": "Dealer sites \u00b7 browser spot-checks Sun Nov 8 \u2014 15 rows checked: 7 verified unchanged; West Hills + Moritz + Medford blocked-held; Sheehy not found day 12; Portland + Corvallis NOT FOUND, first absence (held)",
    "status": "partial",
    "checkedAt": "2026-11-08T06:07:00-08:00"
   },
   {
-   "service": "Autotrader · BLOCKED Sun Nov 8 — attempted 6:00 AM, site unavailable (discovery not completed)",
+   "service": "Autotrader \u00b7 BLOCKED Sun Nov 8 \u2014 attempted 6:00 AM, site unavailable (discovery not completed)",
    "status": "blocked",
    "checkedAt": "2026-11-08T06:00:00-08:00"
   },
   {
-   "service": "Nissan USA · skipped — off cadence (Sunday)",
+   "service": "Nissan USA \u00b7 skipped \u2014 off cadence (Sunday)",
    "status": "skipped",
    "sweepDate": "2026-11-08"
   },
   {
-   "service": "CarMax · standalone pass skipped — Sun cadence (the CarMax Puyallup watch truck was verified unchanged at 6:15 AM inside the hyper-local pass)",
+   "service": "CarMax \u00b7 standalone pass skipped \u2014 Sun cadence (the CarMax Puyallup watch truck was verified unchanged at 6:15 AM inside the hyper-local pass)",
    "status": "skipped",
    "sweepDate": "2026-11-08"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Sun Nov 8 6:16 AM PT — Honda of Kirkland Glacier White watch truck $34,001 → $33,700 (watch only, not a board row)",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Sun Nov 8 6:16 AM PT \u2014 Honda of Kirkland Glacier White watch truck $34,001 \u2192 $33,700 (watch only, not a board row)",
    "status": "checked",
    "checkedAt": "2026-11-08T06:16:00-08:00"
   },
   {
-   "service": "Tacoma spot-check · Sun Nov 8 6:18 AM PT",
+   "service": "Tacoma spot-check \u00b7 Sun Nov 8 6:18 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-08T06:18:00-08:00"
   },
   {
-   "service": "Tier-1 sweep · 0 changes",
+   "service": "Tier-1 sweep \u00b7 0 changes",
    "status": "checked",
    "checkedAt": "2026-11-07T05:57:00-08:00"
   },
   {
-   "service": "Facebook Marketplace · 3 pages, 0 qualifiers",
+   "service": "Facebook Marketplace \u00b7 3 pages, 0 qualifiers",
    "status": "checked",
    "checkedAt": "2026-11-07T05:58:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Sat Nov 7 6:00 AM PT — 12 verified; Moritz + Medford + West Hills blocked; Sheehy not found day 11",
+   "service": "Dealer sites \u00b7 browser spot-checks Sat Nov 7 6:00 AM PT \u2014 12 verified; Moritz + Medford + West Hills blocked; Sheehy not found day 11",
    "status": "partial",
    "checkedAt": "2026-11-07T06:00:00-08:00"
   },
   {
-   "service": "Autotrader · BLOCKED Sat Nov 7 — attempts 6:08 AM and 6:36 AM, 0 pages reviewed (discovery not a verified none)",
+   "service": "Autotrader \u00b7 BLOCKED Sat Nov 7 \u2014 attempts 6:08 AM and 6:36 AM, 0 pages reviewed (discovery not a verified none)",
    "status": "blocked",
    "checkedAt": "2026-11-07T06:36:00-08:00"
   },
   {
-   "service": "Nissan USA · 0 new qualifiers",
+   "service": "Nissan USA \u00b7 0 new qualifiers",
    "status": "checked",
    "checkedAt": "2026-11-07T06:08:00-08:00"
   },
   {
-   "service": "CarMax · 0 qualifiers; 1 new watch at $35,047",
+   "service": "CarMax \u00b7 0 qualifiers; 1 new watch at $35,047",
    "status": "checked",
    "checkedAt": "2026-11-07T06:12:00-08:00"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Sat Nov 7 6:16 AM PT — Campbell + Burien + Hertz + Bellevue verified; Rairdon + Kirkland + Carvana not found; West Hills Autoplex blocked",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Sat Nov 7 6:16 AM PT \u2014 Campbell + Burien + Hertz + Bellevue verified; Rairdon + Kirkland + Carvana not found; West Hills Autoplex blocked",
    "status": "partial",
    "checkedAt": "2026-11-07T06:16:00-08:00"
   },
   {
-   "service": "Tacoma spot-check · Sat Nov 7 6:24 AM PT — Northridge VIN absent",
+   "service": "Tacoma spot-check \u00b7 Sat Nov 7 6:24 AM PT \u2014 Northridge VIN absent",
    "status": "checked",
    "checkedAt": "2026-11-07T06:24:00-08:00"
   },
@@ -174,37 +174,37 @@
    "checkedAt": "2026-11-06T06:00:00-08:00"
   },
   {
-   "service": "Facebook Marketplace · 0 new",
+   "service": "Facebook Marketplace \u00b7 0 new",
    "status": "checked",
    "checkedAt": "2026-11-06T06:00:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Fri Nov 6 6:06 AM PT",
+   "service": "Dealer sites \u00b7 browser spot-checks Fri Nov 6 6:06 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-06T06:06:00-08:00"
   },
   {
-   "service": "Autotrader · discovery Fri Nov 6 — partial: page 1 of 6 reviewed",
+   "service": "Autotrader \u00b7 discovery Fri Nov 6 \u2014 partial: page 1 of 6 reviewed",
    "status": "partial",
    "checkedAt": "2026-11-06T06:00:00-08:00"
   },
   {
-   "service": "Nissan USA · skipped — Fri cadence",
+   "service": "Nissan USA \u00b7 skipped \u2014 Fri cadence",
    "status": "skipped",
    "sweepDate": "2026-11-06"
   },
   {
-   "service": "CarMax · standalone pass skipped — Fri cadence (the tracked CarMax truck was verified inside the spot-checks)",
+   "service": "CarMax \u00b7 standalone pass skipped \u2014 Fri cadence (the tracked CarMax truck was verified inside the spot-checks)",
    "status": "skipped",
    "sweepDate": "2026-11-06"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Fri Nov 6 6:17 AM PT",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Fri Nov 6 6:17 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-06T06:17:00-08:00"
   },
   {
-   "service": "Tacoma spot-check · Fri Nov 6 6:31 AM PT",
+   "service": "Tacoma spot-check \u00b7 Fri Nov 6 6:31 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-06T06:31:00-08:00"
   },
@@ -219,12 +219,12 @@
    "checkedAt": "2026-11-05T06:04:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Thu Nov 5 6:04–6:16 AM PT (browser sweep completed 6:41 AM PT)",
+   "service": "Dealer sites \u00b7 browser spot-checks Thu Nov 5 6:04\u20136:16 AM PT (browser sweep completed 6:41 AM PT)",
    "status": "checked",
    "checkedAt": "2026-11-05T06:04:00-08:00"
   },
   {
-   "service": "Autotrader · discovery Thu Nov 5 — partial: first results page reviewed in detail",
+   "service": "Autotrader \u00b7 discovery Thu Nov 5 \u2014 partial: first results page reviewed in detail",
    "status": "partial",
    "checkedAt": "2026-11-05T06:18:00-08:00"
   },
@@ -234,27 +234,27 @@
    "checkedAt": "2026-11-05T06:24:00-08:00"
   },
   {
-   "service": "CarMax · standalone pass skipped — Thu cadence (the tracked CarMax truck was verified inside the spot-checks at 6:10 AM PT)",
+   "service": "CarMax \u00b7 standalone pass skipped \u2014 Thu cadence (the tracked CarMax truck was verified inside the spot-checks at 6:10 AM PT)",
    "status": "skipped",
    "sweepDate": "2026-11-05"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Thu Nov 5 6:26 AM PT",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Thu Nov 5 6:26 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-05T06:26:00-08:00"
   },
   {
-   "service": "Nissan of Everett · REMOVED Thu Nov 5 — dealer VIN search returned 0 vehicles Nov 4 and Nov 5, Cars.com listing gone Nov 3, absent from Nissan USA Nov 5; new-truck segment now empty",
+   "service": "Nissan of Everett \u00b7 REMOVED Thu Nov 5 \u2014 dealer VIN search returned 0 vehicles Nov 4 and Nov 5, Cars.com listing gone Nov 3, absent from Nissan USA Nov 5; new-truck segment now empty",
    "status": "checked",
    "checkedAt": "2026-11-05T06:24:00-08:00"
   },
   {
-   "service": "Tacoma piggyback · Northridge VIN absence confirmed again Thu Nov 5 6:36 AM PT",
+   "service": "Tacoma piggyback \u00b7 Northridge VIN absence confirmed again Thu Nov 5 6:36 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-05T06:36:00-08:00"
   },
   {
-   "service": "Tier-1 sweep · 0 changes found; CarGurus blocked",
+   "service": "Tier-1 sweep \u00b7 0 changes found; CarGurus blocked",
    "status": "checked",
    "checkedAt": "2026-11-04T06:00:00-08:00"
   },
@@ -264,32 +264,32 @@
    "checkedAt": "2026-11-04T05:59:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Wed Nov 4 6:01 AM PT (browser task returned 6:48 AM PT)",
+   "service": "Dealer sites \u00b7 browser spot-checks Wed Nov 4 6:01 AM PT (browser task returned 6:48 AM PT)",
    "status": "checked",
    "checkedAt": "2026-11-04T06:01:00-08:00"
   },
   {
-   "service": "Autotrader · ran normally Wed Nov 4 — not blocked",
+   "service": "Autotrader \u00b7 ran normally Wed Nov 4 \u2014 not blocked",
    "status": "checked",
    "checkedAt": "2026-11-04T06:16:00-08:00"
   },
   {
-   "service": "Nissan USA · not checked — off cadence (Wednesday)",
+   "service": "Nissan USA \u00b7 not checked \u2014 off cadence (Wednesday)",
    "status": "skipped",
    "sweepDate": "2026-11-04"
   },
   {
-   "service": "CarMax · Wednesday pass ran",
+   "service": "CarMax \u00b7 Wednesday pass ran",
    "status": "checked",
    "checkedAt": "2026-11-04T06:21:00-08:00"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Wed Nov 4 6:28 AM PT",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Wed Nov 4 6:28 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-04T06:28:00-08:00"
   },
   {
-   "service": "Nissan of Everett · NOT FOUND on the dealer's own site Wed Nov 4 — VDP redirects to a missing-page notice, dealer VIN search returns 0 vehicles; likely sold/gone",
+   "service": "Nissan of Everett \u00b7 NOT FOUND on the dealer's own site Wed Nov 4 \u2014 VDP redirects to a missing-page notice, dealer VIN search returns 0 vehicles; likely sold/gone",
    "status": "checked",
    "checkedAt": "2026-11-04T06:01:00-08:00"
   },
@@ -304,12 +304,12 @@
    "checkedAt": "2026-11-03T06:10:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Tue Nov 3 completed 6:30 AM PT",
+   "service": "Dealer sites \u00b7 browser spot-checks Tue Nov 3 completed 6:30 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-03T06:30:00-08:00"
   },
   {
-   "service": "Autotrader · BLOCKED Tue Nov 3 — browser-confirmed 6:01 AM PT (\"site unavailable\"; discovery did not run)",
+   "service": "Autotrader \u00b7 BLOCKED Tue Nov 3 \u2014 browser-confirmed 6:01 AM PT (\"site unavailable\"; discovery did not run)",
    "status": "blocked",
    "checkedAt": "2026-11-03T06:01:00-08:00"
   },
@@ -319,12 +319,12 @@
    "checkedAt": "2026-11-03T06:30:00-08:00"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Tue Nov 3 6:28 AM PT — partial: West Hills blocked (Access Denied)",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Tue Nov 3 6:28 AM PT \u2014 partial: West Hills blocked (Access Denied)",
    "status": "partial",
    "checkedAt": "2026-11-03T06:28:00-08:00"
   },
   {
-   "service": "Nissan of Everett · dealer site blocked — checked via its Cars.com dealer feed 6:30 AM PT: listing gone (\"No longer listed\")",
+   "service": "Nissan of Everett \u00b7 dealer site blocked \u2014 checked via its Cars.com dealer feed 6:30 AM PT: listing gone (\"No longer listed\")",
    "status": "checked",
    "checkedAt": "2026-11-03T06:30:00-08:00"
   },
@@ -339,32 +339,32 @@
    "checkedAt": "2026-11-02T06:12:00-08:00"
   },
   {
-   "service": "Dealer sites · browser spot-checks Mon Nov 2 completed 6:09 AM PT",
+   "service": "Dealer sites \u00b7 browser spot-checks Mon Nov 2 completed 6:09 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-02T06:09:00-08:00"
   },
   {
-   "service": "Autotrader · BLOCKED Mon Nov 2 — browser-confirmed 6:01 AM PT (\"page unavailable\"; discovery did not run)",
+   "service": "Autotrader \u00b7 BLOCKED Mon Nov 2 \u2014 browser-confirmed 6:01 AM PT (\"page unavailable\"; discovery did not run)",
    "status": "blocked",
    "checkedAt": "2026-11-02T06:01:00-08:00"
   },
   {
-   "service": "Nissan USA · not checked — off cadence (Tue/Thu/Sat)",
+   "service": "Nissan USA \u00b7 not checked \u2014 off cadence (Tue/Thu/Sat)",
    "status": "skipped",
    "sweepDate": "2026-11-02"
   },
   {
-   "service": "CarMax · spot-check inside the browser pass Mon Nov 2 6:09 AM PT (standalone pass is Wed/Sat cadence)",
+   "service": "CarMax \u00b7 spot-check inside the browser pass Mon Nov 2 6:09 AM PT (standalone pass is Wed/Sat cadence)",
    "status": "checked",
    "checkedAt": "2026-11-02T06:09:00-08:00"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Mon Nov 2 6:14 AM PT — partial: West Hills blocked (Access Denied)",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Mon Nov 2 6:14 AM PT \u2014 partial: West Hills blocked (Access Denied)",
    "status": "partial",
    "checkedAt": "2026-11-02T06:14:00-08:00"
   },
   {
-   "service": "Nissan of Everett · dealer site blocked — checked via its Cars.com dealer feed 6:16 AM PT",
+   "service": "Nissan of Everett \u00b7 dealer site blocked \u2014 checked via its Cars.com dealer feed 6:16 AM PT",
    "status": "checked",
    "checkedAt": "2026-11-02T06:16:00-08:00"
   },
@@ -379,232 +379,232 @@
    "checkedAt": "2026-11-01T06:00:00-08:00"
   },
   {
-   "service": "Dealer sites · PARTIAL Sun Nov 1 — text fetches plus browser spot-checks completed 6:11 AM PT (Speck, Dick Hannah, Grants Pass, Portland, Albany, Bud Clary and Orlando read in the live browser; Courtesy, West Hills, Moritz Kia, Medford and Everett browser-blocked)",
+   "service": "Dealer sites \u00b7 PARTIAL Sun Nov 1 \u2014 text fetches plus browser spot-checks completed 6:11 AM PT (Speck, Dick Hannah, Grants Pass, Portland, Albany, Bud Clary and Orlando read in the live browser; Courtesy, West Hills, Moritz Kia, Medford and Everett browser-blocked)",
    "status": "partial",
    "checkedAt": "2026-11-01T06:11:00-08:00"
   },
   {
-   "service": "Autotrader · BLOCKED Sun Nov 1 — browser-confirmed 6:11 AM PT (\"site currently unavailable\"; discovery did not run)",
+   "service": "Autotrader \u00b7 BLOCKED Sun Nov 1 \u2014 browser-confirmed 6:11 AM PT (\"site currently unavailable\"; discovery did not run)",
    "status": "blocked",
    "checkedAt": "2026-11-01T06:11:00-08:00"
   },
   {
-   "service": "Nissan USA · not checked — off cadence (Sunday)",
+   "service": "Nissan USA \u00b7 not checked \u2014 off cadence (Sunday)",
    "status": "skipped",
    "sweepDate": "2026-11-01"
   },
   {
-   "service": "CarMax · standalone pass not checked — off cadence (Sunday); the tracked CarMax truck row itself was verified on carmax.com in the browser pass",
+   "service": "CarMax \u00b7 standalone pass not checked \u2014 off cadence (Sunday); the tracked CarMax truck row itself was verified on carmax.com in the browser pass",
    "status": "skipped",
    "sweepDate": "2026-11-01"
   },
   {
-   "service": "Hyper-local dealer pass · CHECKED Sun Nov 1 6:11 AM PT — partial: Rairdon verified; Campbell, Kirkland and Burien price-unconfirmed; West Hills blocked",
+   "service": "Hyper-local dealer pass \u00b7 CHECKED Sun Nov 1 6:11 AM PT \u2014 partial: Rairdon verified; Campbell, Kirkland and Burien price-unconfirmed; West Hills blocked",
    "status": "partial",
    "checkedAt": "2026-11-01T06:11:00-08:00"
   },
   {
-   "service": "Tier-1 sweep · 0 changes found",
+   "service": "Tier-1 sweep \u00b7 0 changes found",
    "status": "checked",
    "checkedAt": "2026-10-31T06:01:00-07:00"
   },
   {
-   "service": "Facebook Marketplace · 0 qualifiers",
+   "service": "Facebook Marketplace \u00b7 0 qualifiers",
    "status": "checked",
    "checkedAt": "2026-10-31T06:10:00-07:00"
   },
   {
-   "service": "Dealer sites · PARTIAL Sat Oct 31 via page reads (Corvallis, Olympia and Orlando re-verified; Sheehy search checked — tracked truck not found)",
+   "service": "Dealer sites \u00b7 PARTIAL Sat Oct 31 via page reads (Corvallis, Olympia and Orlando re-verified; Sheehy search checked \u2014 tracked truck not found)",
    "status": "partial",
    "checkedAt": "2026-10-31T05:59:00-07:00"
   },
   {
-   "service": "Autotrader · BLOCKED Sat Oct 31 — site currently unavailable",
+   "service": "Autotrader \u00b7 BLOCKED Sat Oct 31 \u2014 site currently unavailable",
    "status": "blocked",
    "sweepDate": "2026-10-31"
   },
   {
-   "service": "Nissan USA · searched, no new qualifying truck (lowest 2026 PRO-4X MSRP $45,545)",
+   "service": "Nissan USA \u00b7 searched, no new qualifying truck (lowest 2026 PRO-4X MSRP $45,545)",
    "status": "checked",
    "checkedAt": "2026-10-31T06:14:00-07:00"
   },
   {
-   "service": "CarMax · searched (97 matches), no new qualifying truck",
+   "service": "CarMax \u00b7 searched (97 matches), no new qualifying truck",
    "status": "checked",
    "checkedAt": "2026-10-31T06:14:00-07:00"
   },
   {
-   "service": "Hyper-local dealers · NOT REACHED Sat Oct 31 — the task did not attempt them",
+   "service": "Hyper-local dealers \u00b7 NOT REACHED Sat Oct 31 \u2014 the task did not attempt them",
    "status": "skipped",
    "sweepDate": "2026-10-31"
   },
   {
-   "service": "Tier-1 sweep · 0 changes found",
+   "service": "Tier-1 sweep \u00b7 0 changes found",
    "status": "checked",
    "checkedAt": "2026-10-30T05:57:00-07:00"
   },
   {
-   "service": "Facebook Marketplace · 0 qualifiers",
+   "service": "Facebook Marketplace \u00b7 0 qualifiers",
    "status": "checked",
    "checkedAt": "2026-10-30T06:05:00-07:00"
   },
   {
-   "service": "Dealer sites · PARTIAL Fri Oct 30 via text fetches (Corvallis, Olympia, Orlando, Albany, Sheehy and Carvana re-verified)",
+   "service": "Dealer sites \u00b7 PARTIAL Fri Oct 30 via text fetches (Corvallis, Olympia, Orlando, Albany, Sheehy and Carvana re-verified)",
    "status": "partial",
    "checkedAt": "2026-10-30T06:02:00-07:00"
   },
   {
-   "service": "Autotrader · BLOCKED / report not delivered Fri Oct 30",
+   "service": "Autotrader \u00b7 BLOCKED / report not delivered Fri Oct 30",
    "status": "blocked",
    "sweepDate": "2026-10-30"
   },
   {
-   "service": "Nissan USA · skipped — Fri cadence",
+   "service": "Nissan USA \u00b7 skipped \u2014 Fri cadence",
    "status": "skipped",
    "sweepDate": "2026-10-30"
   },
   {
-   "service": "CarMax · skipped — Fri cadence",
+   "service": "CarMax \u00b7 skipped \u2014 Fri cadence",
    "status": "skipped",
    "sweepDate": "2026-10-30"
   },
   {
-   "service": "Tier-1 automated checks · 0 changes; CarGurus blocked",
+   "service": "Tier-1 automated checks \u00b7 0 changes; CarGurus blocked",
    "status": "checked",
    "checkedAt": "2026-10-29T05:57:00-07:00"
   },
   {
-   "service": "Facebook Marketplace · 0 qualifiers",
+   "service": "Facebook Marketplace \u00b7 0 qualifiers",
    "status": "checked",
    "checkedAt": "2026-10-29T06:00:00-07:00"
   },
   {
-   "service": "Dealer sites · PARTIAL Thu Oct 29 (Olympia, CarMax, Burien, Campbell, Rairdon verified; Everett's old .com blocked, its new .net verified via a partial report; West Hills and Medford blocked)",
+   "service": "Dealer sites \u00b7 PARTIAL Thu Oct 29 (Olympia, CarMax, Burien, Campbell, Rairdon verified; Everett's old .com blocked, its new .net verified via a partial report; West Hills and Medford blocked)",
    "status": "partial",
    "checkedAt": "2026-10-29T06:51:00-07:00"
   },
   {
-   "service": "Autotrader · BLOCKED Thu Oct 29 (site unavailable in the completed browser check; card-level results from a partial pass are unverified)",
+   "service": "Autotrader \u00b7 BLOCKED Thu Oct 29 (site unavailable in the completed browser check; card-level results from a partial pass are unverified)",
    "status": "blocked",
    "checkedAt": "2026-10-29T06:51:00-07:00"
   },
   {
-   "service": "Nissan USA · checked Thu Oct 29 ~6:00–6:20am PT (both card leads resolved: Everett lead is a Bluestone Pearl truck, Dick Hannah lead was a Gun Metallic truck at another dealer — neither qualifies)",
+   "service": "Nissan USA \u00b7 checked Thu Oct 29 ~6:00\u20136:20am PT (both card leads resolved: Everett lead is a Bluestone Pearl truck, Dick Hannah lead was a Gun Metallic truck at another dealer \u2014 neither qualifies)",
    "status": "checked",
    "checkedAt": "2026-10-29T06:20:00-07:00"
   },
   {
-   "service": "CarMax · skipped — Wed/Sat cadence",
+   "service": "CarMax \u00b7 skipped \u2014 Wed/Sat cadence",
    "status": "skipped",
    "sweepDate": "2026-10-29"
   },
   {
-   "service": "Tier-1 sweep (sweep.py) · 0 changes found",
+   "service": "Tier-1 sweep (sweep.py) \u00b7 0 changes found",
    "status": "checked",
    "checkedAt": "2026-10-28T05:57:00-07:00"
   },
   {
-   "service": "Tier-1 sweep · CarGurus · blocked Oct 24",
+   "service": "Tier-1 sweep \u00b7 CarGurus \u00b7 blocked Oct 24",
    "status": "blocked",
    "checkedAt": "2026-10-24T05:57:00-07:00"
   },
   {
-   "service": "Tier-1 curl · olympianissan.com",
+   "service": "Tier-1 curl \u00b7 olympianissan.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · buriennissan.com",
+   "service": "Tier-1 curl \u00b7 buriennissan.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · beavertonnissan.com",
+   "service": "Tier-1 curl \u00b7 beavertonnissan.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · bellevuenissan.com",
+   "service": "Tier-1 curl \u00b7 bellevuenissan.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · nissanofkirkland.com",
+   "service": "Tier-1 curl \u00b7 nissanofkirkland.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · nissanofauburn.com",
+   "service": "Tier-1 curl \u00b7 nissanofauburn.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · uhonda.com",
+   "service": "Tier-1 curl \u00b7 uhonda.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · nwjeep.com",
+   "service": "Tier-1 curl \u00b7 nwjeep.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · doxontoyota.com",
+   "service": "Tier-1 curl \u00b7 doxontoyota.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · carvana.com",
+   "service": "Tier-1 curl \u00b7 carvana.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · cars.com",
+   "service": "Tier-1 curl \u00b7 cars.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · carfax.com",
+   "service": "Tier-1 curl \u00b7 carfax.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "CarMax · PN667507 verified still available",
+   "service": "CarMax \u00b7 PN667507 verified still available",
    "status": "checked",
    "sweepDate": "2026-10-28"
   },
   {
-   "service": "Tier-1 curl · edmunds.com",
+   "service": "Tier-1 curl \u00b7 edmunds.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · kbb.com",
+   "service": "Tier-1 curl \u00b7 kbb.com",
    "status": "blocked",
    "checkedAt": "2026-10-13T06:01:00-07:00"
   },
   {
-   "service": "Tier-1 curl · autotrader.com",
+   "service": "Tier-1 curl \u00b7 autotrader.com",
    "status": "blocked",
    "checkedAt": "2026-10-14T06:01:00-07:00"
   },
   {
-   "service": "Autotrader · discovery + spot-checks delivered · report arrived after the morning close",
+   "service": "Autotrader \u00b7 discovery + spot-checks delivered \u00b7 report arrived after the morning close",
    "status": "checked",
    "sweepDate": "2026-10-28"
   },
   {
-   "service": "Dealer sites · Courtesy, Everett, Sheehy, Medford, Orlando verified · Jess Ford + Olympia blocked by Cloudflare",
+   "service": "Dealer sites \u00b7 Courtesy, Everett, Sheehy, Medford, Orlando verified \u00b7 Jess Ford + Olympia blocked by Cloudflare",
    "status": "checked",
    "sweepDate": "2026-10-28"
   },
   {
-   "service": "Dealer sites · Jess Ford + Corvallis/Albany storefronts · Cloudflare-blocked Oct 24 — rows held",
+   "service": "Dealer sites \u00b7 Jess Ford + Corvallis/Albany storefronts \u00b7 Cloudflare-blocked Oct 24 \u2014 rows held",
    "status": "blocked",
    "checkedAt": "2026-10-24T06:23:00-07:00"
   },
   {
-   "service": "Nissan USA · Skipped — Wed cadence",
+   "service": "Nissan USA \u00b7 Skipped \u2014 Wed cadence",
    "status": "skipped",
    "sweepDate": "2026-10-28"
   },
@@ -614,47 +614,47 @@
    "checkedAt": "2026-10-28T06:00:00-07:00"
   },
   {
-   "service": "Hyper-local pass · no new local qualifier · watch items unchanged",
+   "service": "Hyper-local pass \u00b7 no new local qualifier \u00b7 watch items unchanged",
    "status": "checked",
    "checkedAt": "2026-10-18T07:05:00-07:00"
   },
   {
-   "service": "Second source · Olympia used 2023 · dealer VDP",
+   "service": "Second source \u00b7 Olympia used 2023 \u00b7 dealer VDP",
    "status": "skipped",
    "sweepDate": "2026-10-13"
   },
   {
-   "service": "Second source · Olympia new 2026 · Carfax",
+   "service": "Second source \u00b7 Olympia new 2026 \u00b7 Carfax",
    "status": "skipped",
    "sweepDate": "2026-10-13"
   },
   {
-   "service": "Second source · Eugene new 2026 · lithianissaneugene.com",
+   "service": "Second source \u00b7 Eugene new 2026 \u00b7 lithianissaneugene.com",
    "status": "skipped",
    "sweepDate": "2026-10-13"
   },
   {
-   "service": "Second source · Bellevue new 2026 · bellevuenissan.com",
+   "service": "Second source \u00b7 Bellevue new 2026 \u00b7 bellevuenissan.com",
    "status": "skipped",
    "sweepDate": "2026-10-13"
   },
   {
-   "service": "Cars.com · Bellevue new 2026 $41,695 confirmed listed",
+   "service": "Cars.com \u00b7 Bellevue new 2026 $41,695 confirmed listed",
    "status": "checked",
    "checkedAt": "2026-10-16T06:08:00-07:00"
   },
   {
-   "service": "Driven Boise dealer site · Tacoma $41,699 confirmed Oct 22 (−$100 drop)",
+   "service": "Driven Boise dealer site \u00b7 Tacoma $41,699 confirmed Oct 22 (\u2212$100 drop)",
    "status": "checked",
    "checkedAt": "2026-10-22T06:58:00-07:00"
   },
   {
-   "service": "WA/OR new-stock pass · dealer sites · 18 adds (incl. Kirkland, Tacoma, Bellingham, Alan Webb, Puyallup)",
+   "service": "WA/OR new-stock pass \u00b7 dealer sites \u00b7 18 adds (incl. Kirkland, Tacoma, Bellingham, Alan Webb, Puyallup)",
    "status": "checked",
    "checkedAt": "2026-10-20T00:24:00-07:00"
   },
   {
-   "service": "Second source · Eugene new 2026 · live-verified still listed at $39,728",
+   "service": "Second source \u00b7 Eugene new 2026 \u00b7 live-verified still listed at $39,728",
    "status": "checked",
    "checkedAt": "2026-10-20T00:24:00-07:00"
   }
@@ -679,9 +679,9 @@
    "color": "Baja Storm",
    "seller": "Olympia Nissan",
    "city": "Olympia, WA",
-   "packages": "Fender H01 · Conv ✓",
+   "packages": "Fender H01 \u00b7 Conv \u2713",
    "sprayInBedliner": true,
-   "notes": "1-owner · −$398 drop 10-22 · Fender + Convenience + spray-in liner confirmed · dealer VDP Internet Price $32,025 on 10-22 — re-verified Oct 25 ⚠ Carfax confirms minor damage ⚠ 10-28: dealer VDP live, but its OG price reads $32,099 vs the $32,025 board total — basis unresolved, board holds · 10-29: VDP live again, OG still $32,099 — conflict unresolved day 2, board holds $32,025 · 10-29: +$74 hike verified on the dealer VDP ($31,899 + $200 doc = $32,099) — the OG $32,099 readings were the new total · dealer VDP re-verified $32,099 on 10-30 (OG, InStock) · re-verified $32,099 on 10-31 (OG, InStock) · re-verified $32,099 on 11-01 (OG, InStock) · re-verified $32,099 on 11-02 (OG, InStock; dealer stack $31,899 + $200 doc confirmed in the live browser) · ⚠ +$126 HIKE 11-03: the dealer VDP (Bruce Titus group surface) now reads Retail $32,025 + $200 doc = $32,225 Internet Price, live browser — score 6.3 → 6.2 · re-verified unchanged $32,225 on 11-04 · re-verified unchanged $32,225 on 11-05 · re-verified $32,225 on 11-06 · dealer-verified unchanged $32,225 on 11-07 (live browser; $32,025 + $200 doc; Convenience named) · dealer-verified unchanged $32,225 on 11-08 (live browser; $32,025 + $200 doc) · dealer-verified unchanged $32,225 on 11-09 (live browser via Titus group surface; Convenience named) · 11-10: still listed, Convenience named, price box blank — $32,225 held unverified · −$2,026 drop 11-10: dealer VDP stack re-read live 11-10 — Retail $29,999 + $200 doc = $30,199 Internet Price (the blank price box resolved; supersedes the $32,225 held since 11-03) — score 6.2 → 7.7 · new board low · CARFAX read in full 11-10 (dealer-provided): 1-owner · clean title · no structural / airbag / total-loss · single damage entry 05/12/2026 — minor damage, front left corner (CARFAX classes minor as cosmetic: dents/scratches) · four new tires Jun 2026 at 43,999 mi · regular WA dealer service · sold via auction Aug 2026 to Olympia · factory window sticker: Fender Audio Package $750 STANDALONE [H01] — NOT the Premium Package, so standard machined-face wheels (confirmed in listing photos) · PRO Convenience $2,190 · Technology $990 · spray-in liner · hitch w/ wiring",
+   "notes": "1-owner \u00b7 \u2212$398 drop 10-22 \u00b7 Fender + Convenience + spray-in liner confirmed \u00b7 dealer VDP Internet Price $32,025 on 10-22 \u2014 re-verified Oct 25 \u26a0 Carfax confirms minor damage \u26a0 10-28: dealer VDP live, but its OG price reads $32,099 vs the $32,025 board total \u2014 basis unresolved, board holds \u00b7 10-29: VDP live again, OG still $32,099 \u2014 conflict unresolved day 2, board holds $32,025 \u00b7 10-29: +$74 hike verified on the dealer VDP ($31,899 + $200 doc = $32,099) \u2014 the OG $32,099 readings were the new total \u00b7 dealer VDP re-verified $32,099 on 10-30 (OG, InStock) \u00b7 re-verified $32,099 on 10-31 (OG, InStock) \u00b7 re-verified $32,099 on 11-01 (OG, InStock) \u00b7 re-verified $32,099 on 11-02 (OG, InStock; dealer stack $31,899 + $200 doc confirmed in the live browser) \u00b7 \u26a0 +$126 HIKE 11-03: the dealer VDP (Bruce Titus group surface) now reads Retail $32,025 + $200 doc = $32,225 Internet Price, live browser \u2014 score 6.3 \u2192 6.2 \u00b7 re-verified unchanged $32,225 on 11-04 \u00b7 re-verified unchanged $32,225 on 11-05 \u00b7 re-verified $32,225 on 11-06 \u00b7 dealer-verified unchanged $32,225 on 11-07 (live browser; $32,025 + $200 doc; Convenience named) \u00b7 dealer-verified unchanged $32,225 on 11-08 (live browser; $32,025 + $200 doc) \u00b7 dealer-verified unchanged $32,225 on 11-09 (live browser via Titus group surface; Convenience named) \u00b7 11-10: still listed, Convenience named, price box blank \u2014 $32,225 held unverified \u00b7 \u2212$2,026 drop 11-10: dealer VDP stack re-read live 11-10 \u2014 Retail $29,999 + $200 doc = $30,199 Internet Price (the blank price box resolved; supersedes the $32,225 held since 11-03) \u2014 score 6.2 \u2192 7.7 \u00b7 new board low \u00b7 CARFAX read in full 11-10 (dealer-provided): 1-owner \u00b7 clean title \u00b7 no structural / airbag / total-loss \u00b7 single damage entry 05/12/2026 \u2014 minor damage, front left corner (CARFAX classes minor as cosmetic: dents/scratches) \u00b7 four new tires Jun 2026 at 43,999 mi \u00b7 regular WA dealer service \u00b7 sold via auction Aug 2026 to Olympia \u00b7 factory window sticker: Fender Audio Package $750 STANDALONE [H01] \u2014 NOT the Premium Package, so standard machined-face wheels (confirmed in listing photos) \u00b7 PRO Convenience $2,190 \u00b7 Technology $990 \u00b7 spray-in liner \u00b7 hitch w/ wiring",
    "history": "https://www.carfax.com/vehicle/1N6ED1EKXPN656680",
    "listing": "https://www.olympianissan.com/inventory/used-2023-nissan-frontier-pro-4x-4wd-4d-crew-cab-1n6ed1ekxpn656680/",
    "image": "assets/olympia-used-2023.jpg",
@@ -690,7 +690,7 @@
    "convenience": 1,
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 4,
@@ -705,15 +705,15 @@
    "color": "Baja Storm",
    "seller": "Nissan of Portland",
    "city": "Portland, OR",
-   "packages": "Conv ✓ · Tech, Off-Road Prot.",
+   "packages": "Conv \u2713 \u00b7 Tech, Off-Road Prot.",
    "sprayInBedliner": true,
-   "notes": "Nissan Certified · 2 owners · clean Carfax · 10 svc records free 7-yr/100k warranty · dealer stack confirmed 11-01: Retail $33,875 + $250 doc = $34,125 all-in (board holds the $33,875 list basis) · re-verified unchanged on 11-04 — $34,125 all-in · re-verified on 11-05 — $33,875 list / $34,125 all-in (Convenience named) · re-verified on 11-06: $34,125 all-in · dealer-verified unchanged $34,125 all-in on 11-07 (live browser; $33,875 + $250 doc) · ⚠ 11-08: NOT FOUND on its own dealer VIN search (0 vehicles) — first absence; held at $34,125 all-in per the no-remove discipline · 11-09: FOUND again on the dealer site (Nissan of Portland) at $34,125 total ($33,875 + $250 doc) after 11-08’s one-day absence — unchanged; absence resolved · 11-10: dealer-verified unchanged $34,125 total 11-10, Convenience named",
+   "notes": "Nissan Certified \u00b7 2 owners \u00b7 clean Carfax \u00b7 10 svc records free 7-yr/100k warranty \u00b7 dealer stack confirmed 11-01: Retail $33,875 + $250 doc = $34,125 all-in (board holds the $33,875 list basis) \u00b7 re-verified unchanged on 11-04 \u2014 $34,125 all-in \u00b7 re-verified on 11-05 \u2014 $33,875 list / $34,125 all-in (Convenience named) \u00b7 re-verified on 11-06: $34,125 all-in \u00b7 dealer-verified unchanged $34,125 all-in on 11-07 (live browser; $33,875 + $250 doc) \u00b7 \u26a0 11-08: NOT FOUND on its own dealer VIN search (0 vehicles) \u2014 first absence; held at $34,125 all-in per the no-remove discipline \u00b7 11-09: FOUND again on the dealer site (Nissan of Portland) at $34,125 total ($33,875 + $250 doc) after 11-08\u2019s one-day absence \u2014 unchanged; absence resolved \u00b7 11-10: dealer-verified unchanged $34,125 total 11-10, Convenience named",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK2NN615912",
    "listing": "https://www.autotrader.com/cars-for-sale/vehicle/789048396",
    "image": "assets/truck-04.jpg",
    "interior": "assets/interior-04.jpg",
    "interiorRef": false,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 5,
@@ -728,15 +728,15 @@
    "color": "Baja Storm",
    "seller": "Grants Pass Automotive",
    "city": "Grants Pass, OR",
-   "packages": "Conv ✓ · Tech (Nav), Off-Road Prot., Tow",
+   "packages": "Conv \u2713 \u00b7 Tech (Nav), Off-Road Prot., Tow",
    "sprayInBedliner": true,
-   "notes": "−$359 drop 10-22 · Nissan Certified · 1-owner · no accidents · Autotrader detail $33,622 fees incl. 10-22 · dealer VDP confirmed $33,622 on 10-23 — the $33,981/$34,331 figures were snippet and summary errors; flag CLOSED ⚠ 359 mi away · ⚠ 11-01: dealer stack now reads Price $33,622 + $250 doc/electronic processing = $33,872 OUR BEST PRICE (live browser) — the board basis moves to the dealer-stack total (+$250 vs the old fees-incl read); score 5.2 → 5.0 · −$250 drop 11-02: the dealer site now reads $33,622 as the OUR BEST PRICE total (live browser) — the $250 doc/electronic line from 11-01 no longer adds on top; board basis returns to $33,622, score 5.0 → 5.2 · dealer-verified unchanged $33,622 on 11-03 (live browser, OUR BEST PRICE) · dealer-verified unchanged $33,622 on 11-04 · −$589 drop 11-05: dealer VDP now $33,033 (doc fee not itemized on the VDP) · 11-06: the dealer VDP now itemizes a $250 doc/electronic line — stack $33,033 + $250 = $33,283 total; board moves to the dealer-stack total, score 5.6 → 5.4 · −$250 drop 11-07: dealer VDP now lists $33,033 with no doc fee itemized (the $250 doc line booked 11-06 is not itemized today — this VIN has oscillated $33,033 ↔ $33,283 on the doc line) — score 5.4 → 5.6 · dealer-verified unchanged $33,033 on 11-08 (live browser; Convenience named; no doc fee itemized) · dealer-verified unchanged $33,033 on 11-09 (live browser; Convenience named; doc fee not itemized today) · 11-10: NOT FOUND first absence — $33,033 held",
+   "notes": "\u2212$359 drop 10-22 \u00b7 Nissan Certified \u00b7 1-owner \u00b7 no accidents \u00b7 Autotrader detail $33,622 fees incl. 10-22 \u00b7 dealer VDP confirmed $33,622 on 10-23 \u2014 the $33,981/$34,331 figures were snippet and summary errors; flag CLOSED \u26a0 359 mi away \u00b7 \u26a0 11-01: dealer stack now reads Price $33,622 + $250 doc/electronic processing = $33,872 OUR BEST PRICE (live browser) \u2014 the board basis moves to the dealer-stack total (+$250 vs the old fees-incl read); score 5.2 \u2192 5.0 \u00b7 \u2212$250 drop 11-02: the dealer site now reads $33,622 as the OUR BEST PRICE total (live browser) \u2014 the $250 doc/electronic line from 11-01 no longer adds on top; board basis returns to $33,622, score 5.0 \u2192 5.2 \u00b7 dealer-verified unchanged $33,622 on 11-03 (live browser, OUR BEST PRICE) \u00b7 dealer-verified unchanged $33,622 on 11-04 \u00b7 \u2212$589 drop 11-05: dealer VDP now $33,033 (doc fee not itemized on the VDP) \u00b7 11-06: the dealer VDP now itemizes a $250 doc/electronic line \u2014 stack $33,033 + $250 = $33,283 total; board moves to the dealer-stack total, score 5.6 \u2192 5.4 \u00b7 \u2212$250 drop 11-07: dealer VDP now lists $33,033 with no doc fee itemized (the $250 doc line booked 11-06 is not itemized today \u2014 this VIN has oscillated $33,033 \u2194 $33,283 on the doc line) \u2014 score 5.4 \u2192 5.6 \u00b7 dealer-verified unchanged $33,033 on 11-08 (live browser; Convenience named; no doc fee itemized) \u00b7 dealer-verified unchanged $33,033 on 11-09 (live browser; Convenience named; doc fee not itemized today) \u00b7 11-10: NOT FOUND first absence \u2014 $33,033 held",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK8PN665037",
    "listing": "https://www.autotrader.com/cars-for-sale/vehicle/791419693",
    "image": "assets/truck-05.jpg",
    "interior": "assets/interior-05.jpg",
    "interiorRef": false,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 9,
@@ -751,15 +751,15 @@
    "color": "Boulder Gray",
    "seller": "Subaru of Albany",
    "city": "Albany, OR",
-   "packages": "Fender · Conv ? · Tech, Off-Road Prot., Nav",
-   "notes": "−$500 drop 10-23 · Albany VDP $34,500 total 10-23 (Retail $42,568 − $8,318 + $250 doc) · same truck $34,245 list at Toyota of Newport 10-23 · clean CARFAX · 1-owner · 0 accidents · Fender confirmed ⚠ 2024 in Boulder Gray — outside color rules · exception row · dealer VDP re-verified $34,500 on 10-30 (OG, InStock) · ⚠ 10-31: the Subaru of Albany surface OG metadata reads $38,495 — not the board basis (the dealer-group stack $34,500 governs, verified 10-30); held, group-VDP re-check owed · ⚠ 10-31 CORRECTION: live dealer VDP stack reads Retail $36,995 + $250 doc with shown Your Price $38,495 — a +$3,995 HIKE from $34,500, browser-verified on the dealer VDP; the OG $38,495 was the new price all along and the morning basis flag is SUPERSEDED. Score 7.7 → 5.0 · dealer VDP re-verified $38,495 on 11-01 (OG, live, 7,394 mi) — the hike holds · 11-01 CORRECTION: live dealer VDP in the browser confirms YOUR PRICE $38,495 (the displayed stack — Retail $36,995 + $250 doc — leaves $1,250 unexplained; the shown Your Price governs) · dealer VDP re-verified $38,495 on 11-02 (OG, InStock, home-store Subaru of Albany surface) · ⚠ 11-02: a sibling group surface (Toyota of Corvallis) shows this VIN at $37,245 (Market $36,995 + $250 doc) — exactly $1,250 under the home-store price, matching the unexplained gap in Albany's own stack. NOT booked: the home-store VDP governs (10-24 sibling-surface precedent) and was re-verified at $38,495 the same morning. Group-stack re-check first priority tomorrow — if the dealer's own total is $37,245, this is a −$1,250 drop · 11-03: group-stack re-check DONE — NOT a drop. Both surfaces re-read: the home-store VDP still shows YOUR PRICE $38,495, but its own stack (Retail $36,995 + $250 doc) sums to $37,245 — the $1,250 is un-itemized on the home store itself; the Corvallis sibling stack ($36,995 + $250 = $37,245) is just that arithmetic. Home-store shown price governs; board holds $38,495, flag closed · dealer VDP re-verified $38,495 on 11-04 · dealer VDP re-verified $38,495 on 11-05 (stack still leaves $1,250 un-itemized) · re-verified $38,495 on 11-06 (stack still leaves $1,250 un-itemized) · 11-07: still $38,495, now listed at Toyota of Newport (same Jackson group, stock HU0603) — no fee breakdown on the Newport page; $1,250 gap still unverified · re-verified $38,495 on 11-09 (Toyota of Corvallis dealer page, Jackson group)",
+   "packages": "Fender \u00b7 Conv ? \u00b7 Tech, Off-Road Prot., Nav",
+   "notes": "\u2212$500 drop 10-23 \u00b7 Albany VDP $34,500 total 10-23 (Retail $42,568 \u2212 $8,318 + $250 doc) \u00b7 same truck $34,245 list at Toyota of Newport 10-23 \u00b7 clean CARFAX \u00b7 1-owner \u00b7 0 accidents \u00b7 Fender confirmed \u26a0 2024 in Boulder Gray \u2014 outside color rules \u00b7 exception row \u00b7 dealer VDP re-verified $34,500 on 10-30 (OG, InStock) \u00b7 \u26a0 10-31: the Subaru of Albany surface OG metadata reads $38,495 \u2014 not the board basis (the dealer-group stack $34,500 governs, verified 10-30); held, group-VDP re-check owed \u00b7 \u26a0 10-31 CORRECTION: live dealer VDP stack reads Retail $36,995 + $250 doc with shown Your Price $38,495 \u2014 a +$3,995 HIKE from $34,500, browser-verified on the dealer VDP; the OG $38,495 was the new price all along and the morning basis flag is SUPERSEDED. Score 7.7 \u2192 5.0 \u00b7 dealer VDP re-verified $38,495 on 11-01 (OG, live, 7,394 mi) \u2014 the hike holds \u00b7 11-01 CORRECTION: live dealer VDP in the browser confirms YOUR PRICE $38,495 (the displayed stack \u2014 Retail $36,995 + $250 doc \u2014 leaves $1,250 unexplained; the shown Your Price governs) \u00b7 dealer VDP re-verified $38,495 on 11-02 (OG, InStock, home-store Subaru of Albany surface) \u00b7 \u26a0 11-02: a sibling group surface (Toyota of Corvallis) shows this VIN at $37,245 (Market $36,995 + $250 doc) \u2014 exactly $1,250 under the home-store price, matching the unexplained gap in Albany's own stack. NOT booked: the home-store VDP governs (10-24 sibling-surface precedent) and was re-verified at $38,495 the same morning. Group-stack re-check first priority tomorrow \u2014 if the dealer's own total is $37,245, this is a \u2212$1,250 drop \u00b7 11-03: group-stack re-check DONE \u2014 NOT a drop. Both surfaces re-read: the home-store VDP still shows YOUR PRICE $38,495, but its own stack (Retail $36,995 + $250 doc) sums to $37,245 \u2014 the $1,250 is un-itemized on the home store itself; the Corvallis sibling stack ($36,995 + $250 = $37,245) is just that arithmetic. Home-store shown price governs; board holds $38,495, flag closed \u00b7 dealer VDP re-verified $38,495 on 11-04 \u00b7 dealer VDP re-verified $38,495 on 11-05 (stack still leaves $1,250 un-itemized) \u00b7 re-verified $38,495 on 11-06 (stack still leaves $1,250 un-itemized) \u00b7 11-07: still $38,495, now listed at Toyota of Newport (same Jackson group, stock HU0603) \u2014 no fee breakdown on the Newport page; $1,250 gap still unverified \u00b7 re-verified $38,495 on 11-09 (Toyota of Corvallis dealer page, Jackson group)",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK5RN663233",
    "listing": "https://www.subaruofalbany.com/inventory/used-2024-nissan-frontier-pro-4x-4wd-4d-crew-cab-1n6ed1ek5rn663233/",
    "vin": "1N6ED1EK5RN663233",
    "image": "assets/toyota-newport-2024.jpg",
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 8,
@@ -774,14 +774,14 @@
    "color": "Baja Storm",
    "seller": "C Speck Motors",
    "city": "Sunnyside, WA",
-   "packages": "Conv ✗ · Tech, Tow, Off-Road Prot.",
-   "notes": "−$217 drop 10-21 · dealer-site verified $33,999 + $200 doc · −$283 drop 10-12 1-owner · no accidents · −$481 drop 11-01 (dealer stack: Asking $33,518 + $200 doc = $33,718 NET, verified on the Speck Nissan page in the live browser) · dealer-verified unchanged $33,718 on 11-02 (live browser; asking $33,518 + $200 doc) · dealer-verified unchanged $33,718 on 11-03 (live browser) · dealer-verified unchanged $33,718 on 11-04 · dealer-verified unchanged $33,718 on 11-05 · re-verified $33,718 on 11-06 · dealer-verified unchanged $33,718 on 11-07 (live browser; $33,518 + $200 doc) · dealer-verified unchanged $33,718 on 11-08 (live browser; $33,518 + $200 doc)",
+   "packages": "Conv \u2717 \u00b7 Tech, Tow, Off-Road Prot.",
+   "notes": "\u2212$217 drop 10-21 \u00b7 dealer-site verified $33,999 + $200 doc \u00b7 \u2212$283 drop 10-12 1-owner \u00b7 no accidents \u00b7 \u2212$481 drop 11-01 (dealer stack: Asking $33,518 + $200 doc = $33,718 NET, verified on the Speck Nissan page in the live browser) \u00b7 dealer-verified unchanged $33,718 on 11-02 (live browser; asking $33,518 + $200 doc) \u00b7 dealer-verified unchanged $33,718 on 11-03 (live browser) \u00b7 dealer-verified unchanged $33,718 on 11-04 \u00b7 dealer-verified unchanged $33,718 on 11-05 \u00b7 re-verified $33,718 on 11-06 \u00b7 dealer-verified unchanged $33,718 on 11-07 (live browser; $33,518 + $200 doc) \u00b7 dealer-verified unchanged $33,718 on 11-08 (live browser; $33,518 + $200 doc)",
    "history": "https://www.carfax.com/vehicle/1N6ED1EKXPN642732",
    "listing": "https://www.autotrader.com/cars-for-sale/vehicle/781756142",
    "image": "assets/truck-08.jpg",
    "interior": "assets/interior-08.jpg",
    "interiorRef": false,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 11,
@@ -796,8 +796,8 @@
    "color": "Baja Storm",
    "seller": "Dick Hannah Nissan",
    "city": "Gladstone, OR",
-   "packages": "Conv ✗ · Off-Road Prot.",
-   "notes": "−$666 drop 10-16 · now under $35k cap 1-owner · dealer total $34,985 incl. doc verified 10-23 ⚠ Carfax confirms minor damage (09/2024) · dealer Fender claim disproven by window sticker — base audio, no Convenience · −$1,490 drop 11-01 (dealer price $33,495, doc-inclusive per the dealer disclaimer, verified on the Dick Hannah group site in the live browser) — score 4.6 → 5.7 · dealer-verified unchanged $33,495 on 11-02 (live browser, Internet Price, doc included) · dealer-verified unchanged $33,495 on 11-03 (live browser) · dealer-verified unchanged $33,495 on 11-04 · dealer-verified unchanged $33,495 on 11-05 · re-verified $33,495 on 11-06 · dealer-verified unchanged $33,495 on 11-07 (live browser) · dealer-verified unchanged $33,495 on 11-08 (live browser; pricing popup confirms the total already includes the doc fee)",
+   "packages": "Conv \u2717 \u00b7 Off-Road Prot.",
+   "notes": "\u2212$666 drop 10-16 \u00b7 now under $35k cap 1-owner \u00b7 dealer total $34,985 incl. doc verified 10-23 \u26a0 Carfax confirms minor damage (09/2024) \u00b7 dealer Fender claim disproven by window sticker \u2014 base audio, no Convenience \u00b7 \u2212$1,490 drop 11-01 (dealer price $33,495, doc-inclusive per the dealer disclaimer, verified on the Dick Hannah group site in the live browser) \u2014 score 4.6 \u2192 5.7 \u00b7 dealer-verified unchanged $33,495 on 11-02 (live browser, Internet Price, doc included) \u00b7 dealer-verified unchanged $33,495 on 11-03 (live browser) \u00b7 dealer-verified unchanged $33,495 on 11-04 \u00b7 dealer-verified unchanged $33,495 on 11-05 \u00b7 re-verified $33,495 on 11-06 \u00b7 dealer-verified unchanged $33,495 on 11-07 (live browser) \u00b7 dealer-verified unchanged $33,495 on 11-08 (live browser; pricing popup confirms the total already includes the doc fee)",
    "fender": false,
    "convenience": 0,
    "history": "https://www.carfax.com/vehicle/1N6ED1EKXRN667200",
@@ -805,7 +805,7 @@
    "image": "assets/truck-11.jpg",
    "interior": "assets/interior-11.jpg",
    "interiorRef": false,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 10,
@@ -820,18 +820,18 @@
    "color": "Baja Storm",
    "seller": "West Hills CDJR",
    "city": "Bremerton, WA",
-   "packages": "Conv ✓ · Tech",
+   "packages": "Conv \u2713 \u00b7 Tech",
    "sprayInBedliner": true,
    "fender": false,
    "convenience": 1,
-   "notes": "−$983 drop 10-12 (was −$1,649 10-07) 1-owner · no accidents · $1,340 under $35k cap Convenience + spray-in liner + Tech confirmed 10-16 · no Fender ⚠ DELISTED-VERIFIED 10-20, STILL ABSENT 10-21 + 10-22 + 10-23 + 10-24 + 10-25 — still absent Oct 25, day 6: not found on the dealer's site six days running through 10-25 — dealer VIN and stock searches return 0 vehicles — do NOT send the offer draft unless it resurfaces; row held (Jess Ford precedent: delistings can reverse) · ⚠ 11-01: dealer site Access Denied in the browser — a block, NOT a not-found verdict; the day-6 absence could neither be confirmed nor overturned; aggregator snippets carry stale conflicting prices, none dealer-verified; held · ⚠ 11-02: West Hills domain Access Denied in the browser again — still a block, not a not-found verdict; held · ⚠ 11-03: West Hills group surface Access Denied again — still a block, not a not-found verdict; held · 11-04: dealer VIN search returned 0 vehicles — a confirmed not-found this time, not a block; still held at $33,660 · ⚠ 11-05: dealer VIN search returns 0 vehicles again — confirmed not-found (an OfferUp repost is not the dealer site); still held, draft DO NOT SEND · 11-06: dealer VIN search 0 vehicles again — confirmed not-found; held, draft DO NOT SEND · 11-07: dealer site BLOCKED (Akamai Access Denied — not a not-found verdict) — held, draft DO NOT SEND · 11-08: dealer site BLOCKED again (Akamai Access Denied — not a not-found verdict) — held, draft DO NOT SEND · 11-09: dealer site BLOCKED (Akamai Access Denied); listing still indexed at West Hills — held unverified, draft DO NOT SEND · 11-10: dealer site BLOCKED (Akamai) — held, draft DO NOT SEND",
+   "notes": "\u2212$983 drop 10-12 (was \u2212$1,649 10-07) 1-owner \u00b7 no accidents \u00b7 $1,340 under $35k cap Convenience + spray-in liner + Tech confirmed 10-16 \u00b7 no Fender \u26a0 DELISTED-VERIFIED 10-20, STILL ABSENT 10-21 + 10-22 + 10-23 + 10-24 + 10-25 \u2014 still absent Oct 25, day 6: not found on the dealer's site six days running through 10-25 \u2014 dealer VIN and stock searches return 0 vehicles \u2014 do NOT send the offer draft unless it resurfaces; row held (Jess Ford precedent: delistings can reverse) \u00b7 \u26a0 11-01: dealer site Access Denied in the browser \u2014 a block, NOT a not-found verdict; the day-6 absence could neither be confirmed nor overturned; aggregator snippets carry stale conflicting prices, none dealer-verified; held \u00b7 \u26a0 11-02: West Hills domain Access Denied in the browser again \u2014 still a block, not a not-found verdict; held \u00b7 \u26a0 11-03: West Hills group surface Access Denied again \u2014 still a block, not a not-found verdict; held \u00b7 11-04: dealer VIN search returned 0 vehicles \u2014 a confirmed not-found this time, not a block; still held at $33,660 \u00b7 \u26a0 11-05: dealer VIN search returns 0 vehicles again \u2014 confirmed not-found (an OfferUp repost is not the dealer site); still held, draft DO NOT SEND \u00b7 11-06: dealer VIN search 0 vehicles again \u2014 confirmed not-found; held, draft DO NOT SEND \u00b7 11-07: dealer site BLOCKED (Akamai Access Denied \u2014 not a not-found verdict) \u2014 held, draft DO NOT SEND \u00b7 11-08: dealer site BLOCKED again (Akamai Access Denied \u2014 not a not-found verdict) \u2014 held, draft DO NOT SEND \u00b7 11-09: dealer site BLOCKED (Akamai Access Denied); listing still indexed at West Hills \u2014 held unverified, draft DO NOT SEND \u00b7 11-10: dealer site BLOCKED (Akamai) \u2014 held, draft DO NOT SEND",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK9PN631186",
    "listing": "https://www.autotrader.com/cars-for-sale/vehicle/790304885",
    "image": "assets/west-hills-2023.jpg",
    "vin": "1N6ED1EK9PN631186",
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 92,
@@ -846,8 +846,8 @@
    "color": "Boulder Gray",
    "seller": "Tim Dahle Nissan",
    "city": "Murray, UT",
-   "packages": "Fender · Conv ✓ · Tow",
-   "notes": "NEW 11-09 · dealer-verified live 11-09 (dealer page): $36,916 · 5,996 mi · Boulder Gray Pearl named in the listing text · PRO Convenience Package NAMED + Fender Premium Audio (10-speaker) + spray-in bedliner + Trailer Hitch w/Wiring + Tow Package (T11) + Utili-Track + I-AVM + wireless charging · CARFAX 1-owner · Charcoal cloth · first Convenience-CONFIRMED 2025 under the $37k used cap — hitch + liner factory-fitted, zero installs ⚠ ~840 mi away — shipping est. ~$800 → landed ≈ $37,700 · ⚠ 11-10 CORRECTION: the $37,814 total double-counted the $449 doc fee — verified dealer stack is Selling Price $36,916 + $449 doc = $37,365 total; still OVER the $37k used 2025–26 cap; landed ≈ $38,200",
+   "packages": "Fender \u00b7 Conv \u2713 \u00b7 Tow",
+   "notes": "NEW 11-09 \u00b7 dealer-verified live 11-09 (dealer page): $36,916 \u00b7 5,996 mi \u00b7 Boulder Gray Pearl named in the listing text \u00b7 PRO Convenience Package NAMED + Fender Premium Audio (10-speaker) + spray-in bedliner + Trailer Hitch w/Wiring + Tow Package (T11) + Utili-Track + I-AVM + wireless charging \u00b7 CARFAX 1-owner \u00b7 Charcoal cloth \u00b7 first Convenience-CONFIRMED 2025 under the $37k used cap \u2014 hitch + liner factory-fitted, zero installs \u26a0 ~840 mi away \u2014 shipping est. ~$800 \u2192 landed \u2248 $37,700 \u00b7 \u26a0 11-10 CORRECTION: the $37,814 total double-counted the $449 doc fee \u2014 verified dealer stack is Selling Price $36,916 + $449 doc = $37,365 total; still OVER the $37k used 2025\u201326 cap; landed \u2248 $38,200",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK2SN643253",
    "listing": "https://research.timdahlemurray.com/cars/Used/2025/Nissan/Frontier/PRO-4X/17554137",
    "image": "",
@@ -858,7 +858,7 @@
    "sprayInBedliner": true,
    "interior": "assets/frontier-interior.jpg",
    "interiorRef": true,
-   "interiorYear": "2025–26"
+   "interiorYear": "2025\u201326"
   },
   {
    "id": 93,
@@ -873,8 +873,8 @@
    "color": "Boulder Gray",
    "seller": "Nissan of Orland Park",
    "city": "Orland Park, IL",
-   "packages": "Conv ✓ · Premium (Fender) · Tow",
-   "notes": "NEW 11-09 · dealer-verified live 11-09 (dealer page, InStock): $36,959 · 7,497 mi · Boulder Gray Pearl · PRO Convenience + PRO Premium Packages NAMED (Fender 10-speaker, leather, sunroof) + spray-in bedliner + Trailer Hitch w/Wiring + Tow Package (T11) · Nissan Certified — CPO 7-yr/100k · listing hosted on the Zeigler group BMW of Orland Park surface · first Convenience-CONFIRMED 2025 under the $37k used cap — hitch + liner factory-fitted, zero installs ⚠ ~2,060 mi away — shipping est. ~$1,400 → landed ≈ $37,400 at the corrected price · 11-10: NOT FOUND first absence — $36,959 held · −$959 drop 11-10: dealer VDP full price stack re-read live 11-10 — Starting Price $35,588 + IL Doc Fee $377 + IL Electronic Filing Fee $35 = SALE PRICE $36,000 (supersedes the $36,959 figure boarded 11-09); score 5.5 → 6.2",
+   "packages": "Conv \u2713 \u00b7 Premium (Fender) \u00b7 Tow",
+   "notes": "NEW 11-09 \u00b7 dealer-verified live 11-09 (dealer page, InStock): $36,959 \u00b7 7,497 mi \u00b7 Boulder Gray Pearl \u00b7 PRO Convenience + PRO Premium Packages NAMED (Fender 10-speaker, leather, sunroof) + spray-in bedliner + Trailer Hitch w/Wiring + Tow Package (T11) \u00b7 Nissan Certified \u2014 CPO 7-yr/100k \u00b7 listing hosted on the Zeigler group BMW of Orland Park surface \u00b7 first Convenience-CONFIRMED 2025 under the $37k used cap \u2014 hitch + liner factory-fitted, zero installs \u26a0 ~2,060 mi away \u2014 shipping est. ~$1,400 \u2192 landed \u2248 $37,400 at the corrected price \u00b7 11-10: NOT FOUND first absence \u2014 $36,959 held \u00b7 \u2212$959 drop 11-10: dealer VDP full price stack re-read live 11-10 \u2014 Starting Price $35,588 + IL Doc Fee $377 + IL Electronic Filing Fee $35 = SALE PRICE $36,000 (supersedes the $36,959 figure boarded 11-09); score 5.5 \u2192 6.2",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK6SN660508",
    "listing": "https://www.bmwoforlandpark.com/inventory/used-2025-nissan-frontier-pro-4x-4wd-4d-crew-cab-1n6ed1ek6sn660508/",
    "image": "",
@@ -885,7 +885,7 @@
    "sprayInBedliner": true,
    "interior": "assets/frontier-interior.jpg",
    "interiorRef": true,
-   "interiorYear": "2025–26"
+   "interiorYear": "2025\u201326"
   },
   {
    "id": 15,
@@ -900,14 +900,14 @@
    "color": "Baja Storm",
    "seller": "Wendle Motors",
    "city": "Spokane, WA",
-   "packages": "Conv ✗ · Tech (Nav), Tow",
-   "notes": "−$200 drop 10-12 (reverses +$200 10-10) $1,970 over cap · Nissan Certified · 1-owner · $36,970 + $200 doc ⚠ accident-report conflict · dealer-verified unchanged $37,170 total on 11-03 (live browser, Wendle Nissan) · dealer-verified unchanged $37,170 total on 11-04 · dealer-verified unchanged $37,170 total on 11-05 · re-verified $37,170 total on 11-06 · dealer-verified unchanged $37,170 total on 11-07 (live browser; $36,970 + $200 doc) · dealer-verified unchanged $37,170 total on 11-08 (live browser; $36,970 + $200 doc) · dealer-verified unchanged $37,170 total on 11-09 (live browser) · 11-10: NOT FOUND at Wendle Motors, but FB mirror live at $36,970 — held $37,170 total",
+   "packages": "Conv \u2717 \u00b7 Tech (Nav), Tow",
+   "notes": "\u2212$200 drop 10-12 (reverses +$200 10-10) $1,970 over cap \u00b7 Nissan Certified \u00b7 1-owner \u00b7 $36,970 + $200 doc \u26a0 accident-report conflict \u00b7 dealer-verified unchanged $37,170 total on 11-03 (live browser, Wendle Nissan) \u00b7 dealer-verified unchanged $37,170 total on 11-04 \u00b7 dealer-verified unchanged $37,170 total on 11-05 \u00b7 re-verified $37,170 total on 11-06 \u00b7 dealer-verified unchanged $37,170 total on 11-07 (live browser; $36,970 + $200 doc) \u00b7 dealer-verified unchanged $37,170 total on 11-08 (live browser; $36,970 + $200 doc) \u00b7 dealer-verified unchanged $37,170 total on 11-09 (live browser) \u00b7 11-10: NOT FOUND at Wendle Motors, but FB mirror live at $36,970 \u2014 held $37,170 total",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK0PN618150",
    "listing": "https://www.autotrader.com/cars-for-sale/vehicle/791665220",
    "image": "assets/truck-15.jpg",
    "interior": "assets/interior-15.jpg",
    "interiorRef": false,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 27,
@@ -922,16 +922,16 @@
    "color": "Baja Storm",
    "seller": "Bud Clary Chevrolet",
    "city": "Longview, WA",
-   "packages": "Conv ✓ · Comfort & Convenience Package",
+   "packages": "Conv \u2713 \u00b7 Comfort & Convenience Package",
    "sprayInBedliner": true,
-   "notes": "NEW 10-09 ⚠ $2,450 over cap · stretch only 8,154 mi · Comfort & Convenience pkg · 10-31: dealer stack re-read $37,754 − $517 + $200 doc = $37,437 (−$13); miles now 8,171 · 11-01: dealer-verified unchanged $37,437 in the live browser (8,171 mi) · dealer-verified unchanged $37,437 on 11-02 (live browser; $37,754 − $517 + $200 doc) · dealer-verified unchanged $37,437 on 11-03 (live browser) · dealer-verified unchanged $37,437 on 11-04 · dealer-verified unchanged $37,437 on 11-05 · −$2,214 drop 11-06: dealer stack Market $36,779 − $1,756 savings + $200 doc = $35,223 — now only $223 over the $35k cap; score 4.1 → 5.8 · dealer-verified unchanged $35,223 on 11-07 (live browser; Market $36,700 − $1,677 + $200 doc) · dealer-verified unchanged $35,223 on 11-08 (live browser; $36,700 − $1,677 + $200 doc) · dealer-verified unchanged $35,223 on 11-09 (live browser; $36,700 − $1,677 + $200 doc) · 11-10: NOT FOUND first absence — $35,223 held",
+   "notes": "NEW 10-09 \u26a0 $2,450 over cap \u00b7 stretch only 8,154 mi \u00b7 Comfort & Convenience pkg \u00b7 10-31: dealer stack re-read $37,754 \u2212 $517 + $200 doc = $37,437 (\u2212$13); miles now 8,171 \u00b7 11-01: dealer-verified unchanged $37,437 in the live browser (8,171 mi) \u00b7 dealer-verified unchanged $37,437 on 11-02 (live browser; $37,754 \u2212 $517 + $200 doc) \u00b7 dealer-verified unchanged $37,437 on 11-03 (live browser) \u00b7 dealer-verified unchanged $37,437 on 11-04 \u00b7 dealer-verified unchanged $37,437 on 11-05 \u00b7 \u2212$2,214 drop 11-06: dealer stack Market $36,779 \u2212 $1,756 savings + $200 doc = $35,223 \u2014 now only $223 over the $35k cap; score 4.1 \u2192 5.8 \u00b7 dealer-verified unchanged $35,223 on 11-07 (live browser; Market $36,700 \u2212 $1,677 + $200 doc) \u00b7 dealer-verified unchanged $35,223 on 11-08 (live browser; $36,700 \u2212 $1,677 + $200 doc) \u00b7 dealer-verified unchanged $35,223 on 11-09 (live browser; $36,700 \u2212 $1,677 + $200 doc) \u00b7 11-10: NOT FOUND first absence \u2014 $35,223 held",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK2NN673373",
    "listing": "https://www.autotrader.com/cars-for-sale/vehicle/793132770",
    "image": "",
    "vin": "1N6ED1EK2NN673373",
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24",
+   "interiorYear": "2022\u201324",
    "fender": null,
    "convenience": 1
   },
@@ -948,8 +948,8 @@
    "color": "Boulder Gray",
    "seller": "Blackburn Nissan",
    "city": "Vicksburg, MS",
-   "packages": "Conv ✓ · Tow",
-   "notes": "RE-BOARDED 11-09 · dealer VDP re-read live 11-09 NAMES the PRO Convenience Package + spray-in bedliner + Trailer Hitch w/Wiring + Utili-Track + I-AVM + wireless charging + 120V bed/console — supersedes the 2026-10-20 cull (that read named none of the contents) · Nissan Certified (CPO 84-mo/100k, 167-pt inspection) · 1-owner · clean CARFAX · Boulder Gray Pearl · no Fender ⚠ advertised $34,635 INCLUDES a $1,000 finance-only discount — boarded at the $35,635 CASH price (Hans pays cash); −$1,153 vs the $36,788 cash basis when first tracked 2026-10-17, before its 10-20 removal ⚠ ~2,480 mi away — shipping est. ~$1,500 → landed ≈ $37,100 · 11-10: dealer-verified still listed 11-10 at $34,635 advertised / $35,635 cash",
+   "packages": "Conv \u2713 \u00b7 Tow",
+   "notes": "RE-BOARDED 11-09 \u00b7 dealer VDP re-read live 11-09 NAMES the PRO Convenience Package + spray-in bedliner + Trailer Hitch w/Wiring + Utili-Track + I-AVM + wireless charging + 120V bed/console \u2014 supersedes the 2026-10-20 cull (that read named none of the contents) \u00b7 Nissan Certified (CPO 84-mo/100k, 167-pt inspection) \u00b7 1-owner \u00b7 clean CARFAX \u00b7 Boulder Gray Pearl \u00b7 no Fender \u26a0 advertised $34,635 INCLUDES a $1,000 finance-only discount \u2014 boarded at the $35,635 CASH price (Hans pays cash); \u2212$1,153 vs the $36,788 cash basis when first tracked 2026-10-17, before its 10-20 removal \u26a0 ~2,480 mi away \u2014 shipping est. ~$1,500 \u2192 landed \u2248 $37,100 \u00b7 11-10: dealer-verified still listed 11-10 at $34,635 advertised / $35,635 cash",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK8SN653818",
    "listing": "https://www.blackburnnissan.com/auto/used-2025-nissan-frontier-pro4x/125581293/",
    "image": "",
@@ -960,7 +960,7 @@
    "sprayInBedliner": true,
    "interior": "assets/frontier-interior.jpg",
    "interiorRef": true,
-   "interiorYear": "2025–26"
+   "interiorYear": "2025\u201326"
   },
   {
    "id": 17,
@@ -976,14 +976,14 @@
    "seller": "Lithia CJDR",
    "city": "Medford, OR",
    "packages": "Conv ?",
-   "notes": "−$500 drop 10-22 · Convenience unverified (2025+ rule) — dealer listing names no PRO Convenience Package; specs list heated seats/wheel and remote start only · $246 over the $37k used cap · no accidents · 1-owner ⚠ ex-rental · 365 mi away · dealer page re-read 10-28: $37,246 confirmed, Convenience still not named · ⚠ 11-01: dealer site Access Denied in the browser (blocked); PRO Convenience still NOT NAMED — the 2025+ unverified flag stands; held at $37,246 · ⚠ 11-03: dealer VDP Access Denied again (blocked) — price and Convenience naming both unverified today; held · 11-04: verified at $37,246; a full-page search finds no “Convenience” at all — the PRO Convenience Package is still NOT NAMED · −$1,001 drop 11-05: dealer VDP stack $39,998 − $4,003 + $215 doc + $35 EVR = $36,245 total — now under the $37k used 2025–26 cap · ⚠ 11-05: full-page search still finds NO “Convenience” anywhere on the dealer page — package still NOT NAMED, unverified flag stands; price alone does not qualify it under the 2025+ rule · re-verified $36,245 on 11-06; full-page search again finds no Convenience — still NOT NAMED · 11-07: dealer VDP BLOCKED (Akamai) — $36,245 held; Convenience still NOT NAMED on any dealer read (an unverified search snippet claiming otherwise is disregarded) · 11-08: dealer site BLOCKED again (Akamai — VDP + VIN search) — $36,245 held; Convenience still NOT NAMED on any dealer read · 11-09: dealer site BLOCKED again (Akamai Access Denied) — $36,245 held unverified; Convenience still NOT NAMED on any dealer read · 11-10: BLOCKED (Akamai) — $36,245 held, Convenience still NOT NAMED",
+   "notes": "\u2212$500 drop 10-22 \u00b7 Convenience unverified (2025+ rule) \u2014 dealer listing names no PRO Convenience Package; specs list heated seats/wheel and remote start only \u00b7 $246 over the $37k used cap \u00b7 no accidents \u00b7 1-owner \u26a0 ex-rental \u00b7 365 mi away \u00b7 dealer page re-read 10-28: $37,246 confirmed, Convenience still not named \u00b7 \u26a0 11-01: dealer site Access Denied in the browser (blocked); PRO Convenience still NOT NAMED \u2014 the 2025+ unverified flag stands; held at $37,246 \u00b7 \u26a0 11-03: dealer VDP Access Denied again (blocked) \u2014 price and Convenience naming both unverified today; held \u00b7 11-04: verified at $37,246; a full-page search finds no \u201cConvenience\u201d at all \u2014 the PRO Convenience Package is still NOT NAMED \u00b7 \u2212$1,001 drop 11-05: dealer VDP stack $39,998 \u2212 $4,003 + $215 doc + $35 EVR = $36,245 total \u2014 now under the $37k used 2025\u201326 cap \u00b7 \u26a0 11-05: full-page search still finds NO \u201cConvenience\u201d anywhere on the dealer page \u2014 package still NOT NAMED, unverified flag stands; price alone does not qualify it under the 2025+ rule \u00b7 re-verified $36,245 on 11-06; full-page search again finds no Convenience \u2014 still NOT NAMED \u00b7 11-07: dealer VDP BLOCKED (Akamai) \u2014 $36,245 held; Convenience still NOT NAMED on any dealer read (an unverified search snippet claiming otherwise is disregarded) \u00b7 11-08: dealer site BLOCKED again (Akamai \u2014 VDP + VIN search) \u2014 $36,245 held; Convenience still NOT NAMED on any dealer read \u00b7 11-09: dealer site BLOCKED again (Akamai Access Denied) \u2014 $36,245 held unverified; Convenience still NOT NAMED on any dealer read \u00b7 11-10: BLOCKED (Akamai) \u2014 $36,245 held, Convenience still NOT NAMED",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK5TN633463",
    "listing": "https://www.autotrader.com/cars-for-sale/vehicle/789447357",
    "image": "assets/truck-17.jpg",
    "vin": "1N6ED1EK5TN633463",
    "interior": "assets/interior-17.jpg",
    "interiorRef": false,
-   "interiorYear": "2025–26"
+   "interiorYear": "2025\u201326"
   },
   {
    "id": 54,
@@ -998,8 +998,8 @@
    "color": "Baja Storm",
    "seller": "Moritz Kia Alliance",
    "city": "Fort Worth, TX",
-   "packages": "Conv ✗ · Nav",
-   "notes": "−$200 drop 10-24 · dealer VDP $34,245 + $225 doc = $34,470 · base audio · no Convenience ⚠ 2,270 mi away — ship or fly-and-drive · ⚠ 11-01: dealer page Access Denied in the browser (blocked); an aggregator snippet shows $34,998 — not dealer-confirmed, not recorded; held at $34,470 · ⚠ 11-03: dealer VDP Access Denied again (blocked) — not verified today; held · re-verified unchanged $34,470 on 11-04 · ⚠ 11-05: dealer site BLOCKED (Akamai bot wall — not a not-found verdict); held at $34,470 (last verified 11-04) · −$257 drop 11-06: dealer VDP loaded today (not blocked) — $33,988 + $225 doc = $34,213; score 5.7 → 5.9 · 11-07: dealer site BLOCKED (Akamai Access Denied) — $34,213 held unverified · 11-08: dealer site BLOCKED again (Akamai Access Denied) — $34,213 held unverified · 11-09: dealer site BLOCKED again (Akamai Access Denied) — $34,213 held unverified; a snippet showing $35,223 is not dealer-verified and is not recorded · 11-10: BLOCKED (Akamai) — $34,213 held",
+   "packages": "Conv \u2717 \u00b7 Nav",
+   "notes": "\u2212$200 drop 10-24 \u00b7 dealer VDP $34,245 + $225 doc = $34,470 \u00b7 base audio \u00b7 no Convenience \u26a0 2,270 mi away \u2014 ship or fly-and-drive \u00b7 \u26a0 11-01: dealer page Access Denied in the browser (blocked); an aggregator snippet shows $34,998 \u2014 not dealer-confirmed, not recorded; held at $34,470 \u00b7 \u26a0 11-03: dealer VDP Access Denied again (blocked) \u2014 not verified today; held \u00b7 re-verified unchanged $34,470 on 11-04 \u00b7 \u26a0 11-05: dealer site BLOCKED (Akamai bot wall \u2014 not a not-found verdict); held at $34,470 (last verified 11-04) \u00b7 \u2212$257 drop 11-06: dealer VDP loaded today (not blocked) \u2014 $33,988 + $225 doc = $34,213; score 5.7 \u2192 5.9 \u00b7 11-07: dealer site BLOCKED (Akamai Access Denied) \u2014 $34,213 held unverified \u00b7 11-08: dealer site BLOCKED again (Akamai Access Denied) \u2014 $34,213 held unverified \u00b7 11-09: dealer site BLOCKED again (Akamai Access Denied) \u2014 $34,213 held unverified; a snippet showing $35,223 is not dealer-verified and is not recorded \u00b7 11-10: BLOCKED (Akamai) \u2014 $34,213 held",
    "history": "https://www.carfax.com/vehicle/1N6ED1EKXRN661252",
    "listing": "https://www.moritzkiaalliance.com/viewdetails/used/1n6ed1ekxrn661252/2024-nissan-frontier-crew-cab-pickup",
    "image": "assets/truck-24.jpg",
@@ -1008,7 +1008,7 @@
    "convenience": 0,
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 55,
@@ -1023,8 +1023,8 @@
    "color": "Boulder Gray",
    "seller": "Sheehy Nissan of Manassas",
    "city": "Manassas, VA",
-   "packages": "Conv ✓",
-   "notes": "NEW 10-17 Nissan Certified · 1-owner · total $34,896 = $33,898 + $998 processing · Convenience + spray-in liner confirmed · cheapest used 2026 on the board ⚠ 10-20 + 10-21 + 10-22 + 10-23 + 10-24 + 10-25 + 10-26: NOT found on the Sheehy Manassas site seven days running through 10-26 (VIN search 0 results) — price held, status unresolved (sold vs moved stores) ⚠ 2,770 mi away — ~$1.5k shipping still keeps it under cap · 10-28: not found again on the dealer's own search — held at $34,896 · 10-29: NOT FOUND again on the dealer search (7 results, VIN absent) — held · 10-30: NOT FOUND again (8 results, VIN absent) — held · 10-31: NOT FOUND again (7 results, VIN absent) — held · ⚠ 11-01: NOT FOUND again on the dealer search (6 results, VIN absent) — held · ⚠ 11-03: NOT FOUND again — VIN search of the dealer's own new inventory returned 0 results / no exact match — held · ⚠ 11-04: NOT FOUND again on the dealer's own search — day 8; held at $34,896 · ⚠ 11-05: NOT FOUND on the dealer search again (day 9) — held · 11-06: NOT FOUND again (day 10) — held $34,896 · 11-07: NOT FOUND on dealer VIN search, day 11 — held · 11-08: NOT FOUND on dealer VIN search, day 12 — held · 11-09: dealer site BLOCKED (Cloudflare); still indexed via the dealer feed at $34,896 — held, not dealer-verified; NOT FOUND streak on the dealer’s own search continues · 11-10: NOT FOUND again — $34,896 held",
+   "packages": "Conv \u2713",
+   "notes": "NEW 10-17 Nissan Certified \u00b7 1-owner \u00b7 total $34,896 = $33,898 + $998 processing \u00b7 Convenience + spray-in liner confirmed \u00b7 cheapest used 2026 on the board \u26a0 10-20 + 10-21 + 10-22 + 10-23 + 10-24 + 10-25 + 10-26: NOT found on the Sheehy Manassas site seven days running through 10-26 (VIN search 0 results) \u2014 price held, status unresolved (sold vs moved stores) \u26a0 2,770 mi away \u2014 ~$1.5k shipping still keeps it under cap \u00b7 10-28: not found again on the dealer's own search \u2014 held at $34,896 \u00b7 10-29: NOT FOUND again on the dealer search (7 results, VIN absent) \u2014 held \u00b7 10-30: NOT FOUND again (8 results, VIN absent) \u2014 held \u00b7 10-31: NOT FOUND again (7 results, VIN absent) \u2014 held \u00b7 \u26a0 11-01: NOT FOUND again on the dealer search (6 results, VIN absent) \u2014 held \u00b7 \u26a0 11-03: NOT FOUND again \u2014 VIN search of the dealer's own new inventory returned 0 results / no exact match \u2014 held \u00b7 \u26a0 11-04: NOT FOUND again on the dealer's own search \u2014 day 8; held at $34,896 \u00b7 \u26a0 11-05: NOT FOUND on the dealer search again (day 9) \u2014 held \u00b7 11-06: NOT FOUND again (day 10) \u2014 held $34,896 \u00b7 11-07: NOT FOUND on dealer VIN search, day 11 \u2014 held \u00b7 11-08: NOT FOUND on dealer VIN search, day 12 \u2014 held \u00b7 11-09: dealer site BLOCKED (Cloudflare); still indexed via the dealer feed at $34,896 \u2014 held, not dealer-verified; NOT FOUND streak on the dealer\u2019s own search continues \u00b7 11-10: NOT FOUND again \u2014 $34,896 held",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK8TN603597",
    "listing": "https://www.sheehynissanofmanassas.com/auto/used-2026-nissan-frontier-pro4x/125208213/",
    "image": "assets/truck-25.jpg",
@@ -1034,7 +1034,7 @@
    "sprayInBedliner": true,
    "interior": "assets/frontier-interior.jpg",
    "interiorRef": true,
-   "interiorYear": "2025–26"
+   "interiorYear": "2025\u201326"
   },
   {
    "id": 80,
@@ -1049,8 +1049,8 @@
    "color": "Solid Black",
    "seller": "University Volkswagen",
    "city": "Seattle, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "NEW 10-31 · dealer-site verified: Selling price $35,799 (Our Price $35,599 + $200 doc fee) on universityvw.com, stock 86870, CARFAX One-Owner, no damage wording · New tab floor · closest Model 3 to Seattle · Flat verified Nov 10 — 11th straight day",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "NEW 10-31 \u00b7 dealer-site verified: Selling price $35,799 (Our Price $35,599 + $200 doc fee) on universityvw.com, stock 86870, CARFAX One-Owner, no damage wording \u00b7 New tab floor \u00b7 closest Model 3 to Seattle \u00b7 Flat verified Nov 10 \u2014 11th straight day",
    "history": "",
    "listing": "https://www.universityvw.com/used-Seattle-2025-Tesla-Model+3-Long+Range-5YJ3E1EA8SF885140",
    "image": "",
@@ -1074,8 +1074,8 @@
    "color": "Gray",
    "seller": "Larson Motors (Puyallup Used Cars)",
    "city": "Puyallup, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "Cut −$582 Nov 10 — dealer VDP verified (Larson Price $36,111, stock DP8019) · Black interior · cut −$494 Nov 2",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "Cut \u2212$582 Nov 10 \u2014 dealer VDP verified (Larson Price $36,111, stock DP8019) \u00b7 Black interior \u00b7 cut \u2212$494 Nov 2",
    "history": "",
    "listing": "https://www.puyallupusedcars.com/auto/used-2025-tesla-model-3-long-range/126492561/",
    "image": "",
@@ -1089,7 +1089,7 @@
   {
    "id": 82,
    "tier": "viable",
-   "price": 37000,
+   "price": 38000,
    "year": 2025,
    "miles": 12294,
    "distance": 15,
@@ -1099,8 +1099,8 @@
    "color": "Diamond Black",
    "seller": "Tesla (Tesla.com inventory)",
    "city": "Renton, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "Cut −$400 Nov 10 (Tesla.com verbatim) · added Oct 31 · Black Premium Interior verified · FSD status unknown · ⚠ registration-ZIP caveat on its order page",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "Cut \u2212$400 Nov 10 (Tesla.com verbatim) \u00b7 added Oct 31 \u00b7 Black Premium Interior verified \u00b7 FSD status unknown \u00b7 \u26a0 registration-ZIP caveat on its order page",
    "history": "",
    "listing": "https://www.tesla.com/m3/order/5YJ3E1EA3SF075091?titleStatus=used&redirect=no#overview",
    "image": "",
@@ -1124,8 +1124,8 @@
    "color": "Gray",
    "seller": "Larson Motors (Puyallup Used Cars)",
    "city": "Puyallup, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "Cut −$340 Nov 10 — dealer VDP verified (Larson Price $38,199, stock DP8021) · Black interior · cut −$648 Nov 2",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "Cut \u2212$340 Nov 10 \u2014 dealer VDP verified (Larson Price $38,199, stock DP8021) \u00b7 Black interior \u00b7 cut \u2212$648 Nov 2",
    "history": "",
    "listing": "https://www.puyallupusedcars.com/auto/used-2025-tesla-model-3-long-range/126497040/",
    "image": "",
@@ -1149,8 +1149,8 @@
    "color": "Not stated",
    "seller": "Tesla (Tesla.com inventory)",
    "city": "Renton, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "Flat verified Nov 10 · added Nov 2 · Tesla.com-verified — Black Premium Interior verbatim, Order Now present · FSD status unknown · ⚠ registration-ZIP caveat on its order page — confirm delivery ZIP",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "Flat verified Nov 10 \u00b7 added Nov 2 \u00b7 Tesla.com-verified \u2014 Black Premium Interior verbatim, Order Now present \u00b7 FSD status unknown \u00b7 \u26a0 registration-ZIP caveat on its order page \u2014 confirm delivery ZIP",
    "history": "",
    "listing": "https://www.tesla.com/m3/order/5YJ3E1EA5SF892885?titleStatus=used&redirect=no#overview",
    "image": "",
@@ -1174,8 +1174,8 @@
    "color": "Stealth Gray",
    "seller": "Cortes Auto Center / Northwest Autohub",
    "city": "Burlington, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "Dealer-site verified flat Nov 10 · verified live on the dealer's own site · Black interior · held through repeated dealer-site blocks in late Oct",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "Dealer-site verified flat Nov 10 \u00b7 verified live on the dealer's own site \u00b7 Black interior \u00b7 held through repeated dealer-site blocks in late Oct",
    "history": "",
    "listing": "https://www.northwestautohub.com/used/Tesla/2025-Tesla-Model-3-33d40780ac185f3ac5185ec40be111d1.htm",
    "image": "",
@@ -1189,7 +1189,7 @@
   {
    "id": 88,
    "tier": "viable",
-   "price": 37400,
+   "price": 37300,
    "year": 2024,
    "miles": 34433,
    "distance": 15,
@@ -1199,8 +1199,8 @@
    "color": "Not stated",
    "seller": "Tesla (Tesla.com inventory)",
    "city": "Renton, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "Cut −$400 Nov 10 (Tesla.com verbatim) · added Nov 5 · Tesla.com-verified — Black Premium Interior verbatim · FSD status unknown · ⚠ registration-ZIP caveat — confirm delivery ZIP",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "Cut \u2212$400 Nov 10 (Tesla.com verbatim) \u00b7 added Nov 5 \u00b7 Tesla.com-verified \u2014 Black Premium Interior verbatim \u00b7 FSD status unknown \u00b7 \u26a0 registration-ZIP caveat \u2014 confirm delivery ZIP",
    "history": "",
    "listing": "https://www.tesla.com/m3/order/5YJ3E1EB8RF772923?titleStatus=used&redirect=no#overview",
    "image": "",
@@ -1224,8 +1224,8 @@
    "color": "Baja Storm",
    "seller": "Albany CDJR",
    "city": "Albany, OR",
-   "packages": "Conv ✓ · Tow",
-   "notes": "dealer-site verified 10-23: $34,000 + $215 doc + $35 EVR = $34,250 total · stock #P4743A · PRO Convenience (K05) confirmed — spray-in liner · Utili-Track · I-AVM · heated mirrors · wireless charging · 120V · no Fender · added 10-22 via Autotrader detail at $34,000 fees-incl — the dealer fee build runs $250 higher · dealer VDP re-verified $34,250 on 10-28 · re-verified $34,250 on 10-29, [K05] named · dealer VDP re-verified $34,250 on 10-30 (InStock, [K05] named, 46,128 mi) — the 10-29 Cars.com $34,000 sighting is an aggregator basis difference, dealer holds · dealer VDP re-verified $34,250 on 10-31 (InStock, [K05] named) · dealer VDP re-verified $34,250 on 11-01 (InStock, [K05] named, 46,128 mi) · re-verified $34,250 on 11-02 (OG, InStock, [K05] named; the same VIN also surfaces on the Albany CDJR group page at $34,250 Your Price — group surfaces cross-list) · dealer-verified unchanged $34,250 on 11-03 (live browser, Market $34,000 + $250 doc) · dealer-verified unchanged $34,250 on 11-04 · re-verified $34,250 on 11-05 ([K05] named; miles now 46,128) · re-verified $34,250 on 11-06 ([K05] named) · −$750 drop 11-07: dealer VDP Market $35,995 − $2,745 discount + $250 doc = $33,500 total; [K05] Convenience named — score 5.2 → 5.7 · ⚠ 11-08: NOT FOUND on its own dealer VIN search (Kiefer Nissan of Corvallis, 0 vehicles) — first absence, one day after the drop to $33,500; held per the no-remove discipline · −$250 drop 11-09: NOT FOUND at Kiefer Corvallis a 2nd day but FOUND at Albany CDJR (same Jackson group) at $33,000 + $250 doc = $33,250 total — moved within the group; [K05] Convenience named on prior reads; score 5.7 → 5.9 · 11-10: still listed, price unrendered; banner/badge hint at ~$32,500–$32,750 drop, NOT pinned to a fee stack — $33,250 held",
+   "packages": "Conv \u2713 \u00b7 Tow",
+   "notes": "dealer-site verified 10-23: $34,000 + $215 doc + $35 EVR = $34,250 total \u00b7 stock #P4743A \u00b7 PRO Convenience (K05) confirmed \u2014 spray-in liner \u00b7 Utili-Track \u00b7 I-AVM \u00b7 heated mirrors \u00b7 wireless charging \u00b7 120V \u00b7 no Fender \u00b7 added 10-22 via Autotrader detail at $34,000 fees-incl \u2014 the dealer fee build runs $250 higher \u00b7 dealer VDP re-verified $34,250 on 10-28 \u00b7 re-verified $34,250 on 10-29, [K05] named \u00b7 dealer VDP re-verified $34,250 on 10-30 (InStock, [K05] named, 46,128 mi) \u2014 the 10-29 Cars.com $34,000 sighting is an aggregator basis difference, dealer holds \u00b7 dealer VDP re-verified $34,250 on 10-31 (InStock, [K05] named) \u00b7 dealer VDP re-verified $34,250 on 11-01 (InStock, [K05] named, 46,128 mi) \u00b7 re-verified $34,250 on 11-02 (OG, InStock, [K05] named; the same VIN also surfaces on the Albany CDJR group page at $34,250 Your Price \u2014 group surfaces cross-list) \u00b7 dealer-verified unchanged $34,250 on 11-03 (live browser, Market $34,000 + $250 doc) \u00b7 dealer-verified unchanged $34,250 on 11-04 \u00b7 re-verified $34,250 on 11-05 ([K05] named; miles now 46,128) \u00b7 re-verified $34,250 on 11-06 ([K05] named) \u00b7 \u2212$750 drop 11-07: dealer VDP Market $35,995 \u2212 $2,745 discount + $250 doc = $33,500 total; [K05] Convenience named \u2014 score 5.2 \u2192 5.7 \u00b7 \u26a0 11-08: NOT FOUND on its own dealer VIN search (Kiefer Nissan of Corvallis, 0 vehicles) \u2014 first absence, one day after the drop to $33,500; held per the no-remove discipline \u00b7 \u2212$250 drop 11-09: NOT FOUND at Kiefer Corvallis a 2nd day but FOUND at Albany CDJR (same Jackson group) at $33,000 + $250 doc = $33,250 total \u2014 moved within the group; [K05] Convenience named on prior reads; score 5.7 \u2192 5.9 \u00b7 11-10: still listed, price unrendered; banner/badge hint at ~$32,500\u2013$32,750 drop, NOT pinned to a fee stack \u2014 $33,250 held",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK2RN626057",
    "listing": "https://www.albanychryslerdodgejeepram.com/viewdetails/used/1n6ed1ek2rn626057/2024-nissan-frontier-crew-cab-pickup?type=cash",
    "image": "",
@@ -1235,7 +1235,7 @@
    "sprayInBedliner": true,
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 63,
@@ -1250,8 +1250,8 @@
    "color": "Baja Storm",
    "seller": "Sutherlin Nissan of Orlando",
    "city": "Orlando, FL",
-   "packages": "Conv ✓ · Premium (Fender), Tech",
-   "notes": "−$1,000 drop 10-28 · VDP itemized stack verifies $32,692 all-in ($30,995 + $1,198 dealer + $499 filing) · Nissan CPO · 1-owner (CARFAX badge) · Key Features now name the PRO Convenience Package and PRO-4X Premium Package with Fender Premium Audio · Convenience ✓ · Fender badge applies · VDP hosted on group Mitsubishi site · earlier: $33,692 all-in (10-19) ⚠ footer boilerplate on the VDP conflicts with the itemized stack — confirm in writing · VDP re-verified $32,692 on 10-29 · VDP re-verified $32,692 on 10-30 · ⚠ background only (FL) under the WA/OR focus · re-verified $32,692 on 10-31 · ⚠ 10-31 CORRECTION: the live dealer VDP itemized stack reads Market $42,275 − $9,787 discount + $1,198 dealer + $499 filing = $34,185 — a +$1,493 HIKE from $32,692, browser-verified; the page metadata still reads $32,692 (metadata lags the stack; the stack governs per the 10-28 precedent). Score 5.9 → 4.8 · ⚠ 11-01: VDP live, Baja Storm, 44,206 mi; its OG metadata now reads $31,685 (was $32,692) — metadata is not the all-in basis; the 10-31 itemized stack ($34,185) governs, board holds; stack re-read owed · ⚠ 11-01 CORRECTION: the live dealer page (orlandonissan.com) was read in the browser — live, Baja Storm, 44,206 mi, but NO price displayed (payment calculator only); aggregator figures conflict ($31,680 / $34,618) — the $34,185 stack is neither confirmed nor refuted; board holds · 11-02: the itemized stack is CONFIRMED again in the live browser — Market $42,275 − $9,787 + $1,198 dealer + $499 filing = $34,185, Convenience named; the $31,685 metadata figure is superseded noise · dealer-verified unchanged $34,185 on 11-03 (live browser, itemized stack re-confirmed) · dealer-verified unchanged $34,185 on 11-04 · dealer-verified unchanged $34,185 on 11-05 (itemized stack, Convenience named) · re-verified $34,185 on 11-06 (itemized stack; Convenience named) · dealer-verified unchanged $34,185 on 11-07 (live browser; itemized stack re-confirmed; Convenience named) · 11-10: VDP reads $31,685 — the recurring OG-metadata figure superseded by the itemized $34,185 stack; held $34,185, stack re-read owed",
+   "packages": "Conv \u2713 \u00b7 Premium (Fender), Tech",
+   "notes": "\u2212$1,000 drop 10-28 \u00b7 VDP itemized stack verifies $32,692 all-in ($30,995 + $1,198 dealer + $499 filing) \u00b7 Nissan CPO \u00b7 1-owner (CARFAX badge) \u00b7 Key Features now name the PRO Convenience Package and PRO-4X Premium Package with Fender Premium Audio \u00b7 Convenience \u2713 \u00b7 Fender badge applies \u00b7 VDP hosted on group Mitsubishi site \u00b7 earlier: $33,692 all-in (10-19) \u26a0 footer boilerplate on the VDP conflicts with the itemized stack \u2014 confirm in writing \u00b7 VDP re-verified $32,692 on 10-29 \u00b7 VDP re-verified $32,692 on 10-30 \u00b7 \u26a0 background only (FL) under the WA/OR focus \u00b7 re-verified $32,692 on 10-31 \u00b7 \u26a0 10-31 CORRECTION: the live dealer VDP itemized stack reads Market $42,275 \u2212 $9,787 discount + $1,198 dealer + $499 filing = $34,185 \u2014 a +$1,493 HIKE from $32,692, browser-verified; the page metadata still reads $32,692 (metadata lags the stack; the stack governs per the 10-28 precedent). Score 5.9 \u2192 4.8 \u00b7 \u26a0 11-01: VDP live, Baja Storm, 44,206 mi; its OG metadata now reads $31,685 (was $32,692) \u2014 metadata is not the all-in basis; the 10-31 itemized stack ($34,185) governs, board holds; stack re-read owed \u00b7 \u26a0 11-01 CORRECTION: the live dealer page (orlandonissan.com) was read in the browser \u2014 live, Baja Storm, 44,206 mi, but NO price displayed (payment calculator only); aggregator figures conflict ($31,680 / $34,618) \u2014 the $34,185 stack is neither confirmed nor refuted; board holds \u00b7 11-02: the itemized stack is CONFIRMED again in the live browser \u2014 Market $42,275 \u2212 $9,787 + $1,198 dealer + $499 filing = $34,185, Convenience named; the $31,685 metadata figure is superseded noise \u00b7 dealer-verified unchanged $34,185 on 11-03 (live browser, itemized stack re-confirmed) \u00b7 dealer-verified unchanged $34,185 on 11-04 \u00b7 dealer-verified unchanged $34,185 on 11-05 (itemized stack, Convenience named) \u00b7 re-verified $34,185 on 11-06 (itemized stack; Convenience named) \u00b7 dealer-verified unchanged $34,185 on 11-07 (live browser; itemized stack re-confirmed; Convenience named) \u00b7 11-10: VDP reads $31,685 \u2014 the recurring OG-metadata figure superseded by the itemized $34,185 stack; held $34,185, stack re-read owed",
    "history": "https://www.carfax.com/vehicle/1N6ED1EK8PN656418",
    "listing": "https://northorlandomitsubishi.com/viewdetails/used/1n6ed1ek8pn656418/2023-nissan-frontier-crew-cab-pickup",
    "image": "",
@@ -1261,7 +1261,7 @@
    "kbb": 36170,
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 75,
@@ -1277,7 +1277,7 @@
    "seller": "CarMax Albuquerque",
    "city": "Albuquerque, NM",
    "packages": "Conv ?",
-   "notes": "NEW 10-24 · $32,998 + $1,999 shipping to Renton = $34,997 total — under the $35k cap by $3 (CarMax shippable basis) · CarMax lists the color as \"Tan\" — photos show tan/khaki Baja Storm (the only tan offered on a 2023 PRO-4X); the linked AutoCheck also reports TAN · 1-owner · clean title · no accidents · no open recalls (AutoCheck 10-24) · verified twice on carmax.com 10-24 · still available Oct 25 · est. Renton arrival Nov 9–19, verified still available 10-29 · ⚠ fleet/lease use history · no basic warranty remaining · TX truck — background under the WA/OR focus · the $1,999 shipping is non-refundable · 10-30: still available on carmax.com at $34,997 total, est. Renton arrival now Nov 11–20 · 10-31: still available at $34,997 total, est. Renton arrival now Nov 12–21 · 11-01: still available at $34,997 total on carmax.com, est. Renton arrival now Nov 13–22 · 11-02: still available at $34,997 total on carmax.com, est. Renton arrival Nov 13–22 (unchanged) · 11-03: still available at $34,997 total on carmax.com, est. Renton arrival slipped to Nov 14–23 · 11-04: re-verified still available at $34,997 total on carmax.com, est. Renton arrival slipped to Nov 15–24 · 11-05: still available at $34,997 total on carmax.com, est. Renton arrival slipped to Nov 16–26 · 11-06: still available at $34,997 total, est. Renton arrival slipped to Nov 18–27 · 11-07: total unchanged $34,997 ($32,998 + $1,999 shipping) but truck MOVED to CarMax Albuquerque and is ON HOLD for a shopper / reserved — no Renton arrival window · 11-10: no indexed page found (weak check) — $34,997 held",
+   "notes": "NEW 10-24 \u00b7 $32,998 + $1,999 shipping to Renton = $34,997 total \u2014 under the $35k cap by $3 (CarMax shippable basis) \u00b7 CarMax lists the color as \"Tan\" \u2014 photos show tan/khaki Baja Storm (the only tan offered on a 2023 PRO-4X); the linked AutoCheck also reports TAN \u00b7 1-owner \u00b7 clean title \u00b7 no accidents \u00b7 no open recalls (AutoCheck 10-24) \u00b7 verified twice on carmax.com 10-24 \u00b7 still available Oct 25 \u00b7 est. Renton arrival Nov 9\u201319, verified still available 10-29 \u00b7 \u26a0 fleet/lease use history \u00b7 no basic warranty remaining \u00b7 TX truck \u2014 background under the WA/OR focus \u00b7 the $1,999 shipping is non-refundable \u00b7 10-30: still available on carmax.com at $34,997 total, est. Renton arrival now Nov 11\u201320 \u00b7 10-31: still available at $34,997 total, est. Renton arrival now Nov 12\u201321 \u00b7 11-01: still available at $34,997 total on carmax.com, est. Renton arrival now Nov 13\u201322 \u00b7 11-02: still available at $34,997 total on carmax.com, est. Renton arrival Nov 13\u201322 (unchanged) \u00b7 11-03: still available at $34,997 total on carmax.com, est. Renton arrival slipped to Nov 14\u201323 \u00b7 11-04: re-verified still available at $34,997 total on carmax.com, est. Renton arrival slipped to Nov 15\u201324 \u00b7 11-05: still available at $34,997 total on carmax.com, est. Renton arrival slipped to Nov 16\u201326 \u00b7 11-06: still available at $34,997 total, est. Renton arrival slipped to Nov 18\u201327 \u00b7 11-07: total unchanged $34,997 ($32,998 + $1,999 shipping) but truck MOVED to CarMax Albuquerque and is ON HOLD for a shopper / reserved \u2014 no Renton arrival window \u00b7 11-10: no indexed page found (weak check) \u2014 $34,997 held",
    "history": "",
    "listing": "https://www.carmax.com/car/29224441",
    "image": "",
@@ -1285,7 +1285,7 @@
    "kbb": 33880,
    "interior": "assets/frontier-interior-2022.jpg",
    "interiorRef": true,
-   "interiorYear": "2022–24"
+   "interiorYear": "2022\u201324"
   },
   {
    "id": 89,
@@ -1300,8 +1300,8 @@
    "color": "Not stated",
    "seller": "Motorcars Limited",
    "city": "Mount Vernon, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "NEW 11-06 · dealer-site verified: Internet Price $38,882 on motorcarslimited.com, Interior Color Black verified, no salvage/rebuilt wording · title to verify on inspection · flat verified Nov 10",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "NEW 11-06 \u00b7 dealer-site verified: Internet Price $38,882 on motorcarslimited.com, Interior Color Black verified, no salvage/rebuilt wording \u00b7 title to verify on inspection \u00b7 flat verified Nov 10",
    "history": "",
    "listing": "https://www.motorcarslimited.com/used-Mount+Vernon-2025-Tesla-Model+3-Long+Range-5YJ3E1EA1SF039254",
    "image": "",
@@ -1315,7 +1315,7 @@
   {
    "id": 90,
    "tier": "viable",
-   "price": 37800,
+   "price": 37300,
    "year": 2024,
    "miles": 42209,
    "distance": 15,
@@ -1325,8 +1325,8 @@
    "color": "Not stated",
    "seller": "Tesla (Tesla.com inventory)",
    "city": "Renton, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "Cut −$100 Nov 10 (Tesla.com verbatim) · added Nov 6 · Tesla.com WA-search find — Black Premium Interior verified · FSD status unknown · ⚠ registration-ZIP caveat — confirm delivery ZIP",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "Cut \u2212$100 Nov 10 (Tesla.com verbatim) \u00b7 added Nov 6 \u00b7 Tesla.com WA-search find \u2014 Black Premium Interior verified \u00b7 FSD status unknown \u00b7 \u26a0 registration-ZIP caveat \u2014 confirm delivery ZIP",
    "history": "",
    "listing": "https://www.tesla.com/m3/order/5YJ3E1EB7RF722062?titleStatus=used&redirect=no#overview",
    "image": "",
@@ -1350,8 +1350,8 @@
    "color": "Boulder Gray",
    "seller": "Parkway Ford",
    "city": "Lexington, NC",
-   "packages": "Conv ✓ · Tow",
-   "notes": "Dealer-verified · $36,794 · 8,904 mi · Boulder Gray · PRO Convenience Package CONFIRMED + spray-in bedliner + Trailer Hitch w/Wiring + Tow Package + Utili-Track + I-AVM + wireless charging · NO Fender (base 6-speaker) · hitch + liner factory-fitted, zero installs · −$100 drop 11-10 (orchestrated sweep, dealer-verified): $36,894 → $36,794 ⚠ ~2,800 mi away — landed ≈ $38,500 with shipping",
+   "packages": "Conv \u2713 \u00b7 Tow",
+   "notes": "Dealer-verified \u00b7 $36,794 \u00b7 8,904 mi \u00b7 Boulder Gray \u00b7 PRO Convenience Package CONFIRMED + spray-in bedliner + Trailer Hitch w/Wiring + Tow Package + Utili-Track + I-AVM + wireless charging \u00b7 NO Fender (base 6-speaker) \u00b7 hitch + liner factory-fitted, zero installs \u00b7 \u2212$100 drop 11-10 (orchestrated sweep, dealer-verified): $36,894 \u2192 $36,794 \u26a0 ~2,800 mi away \u2014 landed \u2248 $38,500 with shipping",
    "history": "",
    "listing": "https://www.parkwayoflexington.net/used-Lexington-2025-Nissan-Frontier-PRO+4X-1N6ED1EK0SN653392",
    "image": "",
@@ -1362,7 +1362,7 @@
    "sprayInBedliner": true,
    "interior": "assets/frontier-interior.jpg",
    "interiorRef": true,
-   "interiorYear": "2025–26"
+   "interiorYear": "2025\u201326"
   },
   {
    "id": 95,
@@ -1377,8 +1377,8 @@
    "color": "Bronze Oxide",
    "seller": "Toyota of Bellingham",
    "city": "Bellingham, WA",
-   "packages": "TRD Off-Road · i-FORCE MAX · Toyota CPO · 14-inch screen ✓",
-   "notes": "BENCHMARK · $42,991 · 20,545 mi · Bronze Oxide · Toyota Certified (CPO) · 14-inch screen dealer-verified · the Tacoma benchmark — the other tracked Tacomas rank below it",
+   "packages": "TRD Off-Road \u00b7 i-FORCE MAX \u00b7 Toyota CPO \u00b7 14-inch screen \u2713",
+   "notes": "BENCHMARK \u00b7 $42,991 \u00b7 20,545 mi \u00b7 Bronze Oxide \u00b7 Toyota Certified (CPO) \u00b7 14-inch screen dealer-verified \u00b7 the Tacoma benchmark \u2014 the other tracked Tacomas rank below it",
    "history": "",
    "listing": "https://www.toyotaofbellingham.com/electric-used/Toyota/2025-Toyota-Tacoma-i-FORCE-MAX-93c4ce1bac1844b00b982250d5f3f91f.htm",
    "image": "assets/tacoma-2025-bronze-oxide-model-ref.webp",
@@ -1407,8 +1407,8 @@
    "color": "Mudbath",
    "seller": "Toyota of Bellevue",
    "city": "Bellevue, WA",
-   "packages": "TRD Off-Road Premium · Premium Pkg · 14-inch display · black SofTex",
-   "notes": "BEST MUDBATH · NEW · $52,706 · Mudbath · black SofTex · TRD Off-Road Premium Package with 14-inch display per the dealer's own page · liked Nov 8 ⚠ ~$58k OTD — over the $47k Mudbath OTD target; tracked as the best Mudbath, NOT a qualifier",
+   "packages": "TRD Off-Road Premium \u00b7 Premium Pkg \u00b7 14-inch display \u00b7 black SofTex",
+   "notes": "BEST MUDBATH \u00b7 NEW \u00b7 $52,706 \u00b7 Mudbath \u00b7 black SofTex \u00b7 TRD Off-Road Premium Package with 14-inch display per the dealer's own page \u00b7 liked Nov 8 \u26a0 ~$58k OTD \u2014 over the $47k Mudbath OTD target; tracked as the best Mudbath, NOT a qualifier",
    "history": "",
    "listing": "https://www.toyotaofbellevue.com/new-Bellevue-2026-Toyota-Tacoma-TRD+Off+Road-3TMLB5JN1TM317012",
    "image": "",
@@ -1432,8 +1432,8 @@
    "color": "Bronze Oxide",
    "seller": "Academy Ford",
    "city": "Laurel, MD",
-   "packages": "TRD Pro Hybrid · 14-inch screen ✓ · Ford Blue Certified",
-   "notes": "Liked Nov 8 · $49,342 · 44,193 mi · Bronze Oxide · black interior · 14-inch screen verified on the dealer's own options list · CARFAX 1-owner ⚠ Ford Blue Certified — NOT Toyota CPO · ranked below Bellingham: Bellingham beats it on price, miles, certification, and distance · ~2,750 mi away",
+   "packages": "TRD Pro Hybrid \u00b7 14-inch screen \u2713 \u00b7 Ford Blue Certified",
+   "notes": "Liked Nov 8 \u00b7 $49,342 \u00b7 44,193 mi \u00b7 Bronze Oxide \u00b7 black interior \u00b7 14-inch screen verified on the dealer's own options list \u00b7 CARFAX 1-owner \u26a0 Ford Blue Certified \u2014 NOT Toyota CPO \u00b7 ranked below Bellingham: Bellingham beats it on price, miles, certification, and distance \u00b7 ~2,750 mi away",
    "history": "",
    "listing": "https://www.academyforddealer.com/used-Laurel-2024-Toyota-Tacoma+Hybrid-TRD+Pro-3TYLC5LN3RT000842",
    "image": "",
@@ -1447,27 +1447,27 @@
   {
    "id": 98,
    "tier": "viable",
-   "price": 39100,
-   "year": 2025,
-   "miles": 6028,
-   "distance": 15,
+   "price": 39995,
+   "year": 2024,
+   "miles": 24835,
+   "distance": 500,
    "score": null,
    "condition": "used",
-   "added": "2026-11-10",
-   "color": "Not stated",
-   "seller": "Tesla (Tesla.com inventory)",
-   "city": "Renton, WA",
-   "packages": "HW4 · Black interior ✓",
-   "notes": "RELISTED Nov 10 — was gone Nov 5, back Nov 10 · Tesla.com-verified — Black Premium Interior · FSD status unknown · ⚠ registration-ZIP caveat — confirm delivery ZIP",
+   "added": "2026-11-11",
+   "color": "Deep Blue Metallic",
+   "seller": "Maverick Car Company",
+   "city": "Boise, ID",
+   "packages": "HW4 \u00b7 Black interior \u2713",
+   "notes": "New Nov 11 \u00b7 dealer-site verified (maverickcarcompany.com) \u2014 $39,995 verbatim \u00b7 Long Range AWD dual motor \u00b7 Black interior verbatim \u00b7 accident-free Carfax claimed, no salvage wording \u00b7 $5 under cap \u00b7 ~500 mi outlier",
    "history": "",
-   "listing": "https://www.tesla.com/m3/order/5YJ3E1EA0SF052206?titleStatus=used&redirect=no#overview",
+   "listing": "https://www.maverickcarcompany.com/used-Boise-2024-Tesla-Model+3-Long+Range-5YJ3E1EB6RF822475",
    "image": "",
    "interior": "",
-   "vin": "5YJ3E1EA0SF052206",
+   "vin": "5YJ3E1EB6RF822475",
    "modelKey": "model3",
    "make": "Tesla",
    "model": "Model 3",
-   "trim": "Long Range RWD"
+   "trim": "Long Range AWD"
   }
  ]
 }
