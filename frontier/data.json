@@ -1,12 +1,12 @@
 {
  "generated": "2026-11-12",
  "snapshot": "2026-11-09",
- "coverageReturnedAt": "2026-11-12T06:31:00-08:00",
+ "coverageReturnedAt": "2026-11-12T08:12:00-08:00",
  "coverage": [
   {
-   "service": "Tesla sweep \u00b7 10 cars \u00b7 DP8021 gone, CarMax Loveland $36,998 added, Cortes \u2212$500, both Tesla AWDs cut \u00b7 0 paid-FSD (34th day) \u00b7 0 verified 7-seaters",
+   "service": "Tesla sweep \u00b7 12 cars \u00b7 2 verified 7-seaters boarded Nov 12 (Ambar Miami $37,792, Hyundai of Gilroy $38,672) \u00b7 0 paid-FSD (34th day)",
    "status": "checked",
-   "checkedAt": "2026-11-12T05:52:00-08:00"
+   "checkedAt": "2026-11-12T08:12:00-08:00"
   },
   {
    "service": "Tier-1 sweep \u00b7 0 changes \u00b7 CarGurus answered (0 listings)",
@@ -92,8 +92,8 @@
  "counts": {
   "frontier": 18,
   "tacoma": 3,
-  "tesla": 10,
-  "total": 31
+  "tesla": 12,
+  "total": 33
  },
  "trucks": [
   {
@@ -540,6 +540,31 @@
    "trim": "Long Range RWD"
   },
   {
+   "id": 100,
+   "tier": "viable",
+   "price": 37792,
+   "year": 2024,
+   "miles": 30160,
+   "distance": 3300,
+   "score": null,
+   "condition": "used",
+   "added": "2026-11-12",
+   "color": "Solid Black",
+   "seller": "Ambar Motors",
+   "city": "Miami, FL",
+   "packages": "HW4 \u00b7 Black interior \u2713 \u00b7 7-seat third row",
+   "notes": "New Nov 12 \u00b7 dealer-site verified \u2014 In Stock on ambarmotors.com \u00b7 $34,995 list + $2,797 required fees = $37,792 cash basis (pre-tax/tag/title) \u00b7 7-seat verified ('7 Seat Interior' + 'THIRD ROW SEATING') \u00b7 Non-smoker, clean one-owner CARFAX per dealer \u00b7 Seattle shipping ~$1,300 extra \u00b7 FSD unknown",
+   "history": "",
+   "listing": "https://ambarmotors.com/car/2024+Tesla+Model%20Y+SUV+F086366",
+   "image": "",
+   "interior": "",
+   "vin": "7SAYGAEE5RF086366",
+   "modelKey": "model3",
+   "make": "Tesla",
+   "model": "Model Y",
+   "trim": "Long Range AWD \u00b7 7-Seat"
+  },
+  {
    "id": 70,
    "tier": "viable",
    "price": 38499,
@@ -563,6 +588,31 @@
    "make": "Tesla",
    "model": "Model 3",
    "trim": "Long Range AWD"
+  },
+  {
+   "id": 101,
+   "tier": "viable",
+   "price": 38672,
+   "year": 2024,
+   "miles": 34002,
+   "distance": 1130,
+   "score": null,
+   "condition": "used",
+   "added": "2026-11-12",
+   "color": "Pearl White",
+   "seller": "Hyundai of Gilroy",
+   "city": "Gilroy, CA",
+   "packages": "HW4 \u00b7 Black interior \u2713 \u00b7 7-seat third row",
+   "notes": "New Nov 12 \u00b7 dealer-site verified \u2014 total $38,672 on the dealer's own VDP (Retail $38,500 + $85 doc + $37 filing + $50 smog), stock RF075679TH \u00b7 7-seat verified on VDP ('- 7-Seat Interior' bullet + description) \u00b7 Black interior verbatim \u00b7 FSD unknown",
+   "history": "",
+   "listing": "https://www.hyundaiofgilroy.com/viewdetails/used/7saygaee4rf075679/2024-tesla-model-y-sport-utility",
+   "image": "",
+   "interior": "",
+   "vin": "7SAYGAEE4RF075679",
+   "modelKey": "model3",
+   "make": "Tesla",
+   "model": "Model Y",
+   "trim": "Long Range AWD \u00b7 7-Seat"
   },
   {
    "id": 88,
